@@ -1,5 +1,6 @@
 site: Rickshaw
 url: https://busterbenson.github.io/rickshaw
+baseurl: '/rickshaw'
 title: Rickshaw
 description: A group blog thing.
 twitter:
@@ -17,22 +18,25 @@ twitter:
   card: summary
   creator: 
 permalink: pretty
-baseurl: '/rickshaw'
 highlighter: non
 exclude:
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
+
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style:    :compressed
+
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap  
+
 collections:
   pages:
     output: true
@@ -43,6 +47,7 @@ collections:
   tags:
     output: true
     permalink: /tag/:path/
+
 defaults:
   -
     scope:
@@ -61,8 +66,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
 prose:
-  siteurl: 'https://busterbenson.github.io/rickshaw'
+  rooturl: '_posts'
+  siteurl: 'https://busterbenson.github.io/rickshaw/'
   media: 'assets/media'
   ignore:
     - /.github
@@ -71,7 +78,6 @@ prose:
     - /_layouts
     - /_plugins
     - /_sass
-    - /_site
     - .gitignore
     - 404.html 
     - _config.yml
