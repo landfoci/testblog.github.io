@@ -61,7 +61,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-prose: 
+prose:
   siteurl: 'https://busterbenson.github.io/rickshaw'
   media: 'assets/media'
   ignore:
@@ -86,6 +86,7 @@ prose:
   users: 
     - login: "busterbenson"
       user: "Buster"
+      profile_link: "/p/buster"
   metadata:
     _posts:
       - name: "title"

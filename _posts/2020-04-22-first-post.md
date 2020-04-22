@@ -1,5 +1,6 @@
 ---
 title: What is Rickshaw?
+author: buster
 layout: post
 tags: [thoughts]
 ---

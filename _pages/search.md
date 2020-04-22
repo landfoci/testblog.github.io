@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Search
+title: About
 ---
+
+A group blog about things. 
+
+Feel free to poke around.
 
 <style>
 	#search-container {
 	    max-width: 100%;
+	    padding-top: 1em;
 	}
 
 	input[type=text] {

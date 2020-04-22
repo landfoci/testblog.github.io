@@ -1,9 +1,9 @@
 links:
 - title: Rickshaw
   url: /rickshaw/
+- title: Passengers
+  url: /rickshaw/passengers
 - title: About
   url: /rickshaw/about
-- title: Search
-  url: /rickshaw/search
 - title: Rss
   url: /rickshaw/atom.xml

@@ -1,0 +1,3 @@
+buster:
+  name: Buster
+  passenger_url: /passengers/buster
