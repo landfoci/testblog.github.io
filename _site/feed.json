@@ -1,24 +1,28 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "title": "Rickshaw",
+    "home_page_url": "http://localhost:4000/rickshaw/",
+    "feed_url": "http://localhost:4000/rickshaw/feed.json",
+    "description": "A group blog thing.",
+    "icon": "http://localhost:4000/rickshaw/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/rickshaw/favicon.ico",
     "expired": false,
     
-    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    "author":  {
+        "name": "Buster Benson",
+        "url": "https://busterbenson.com",
+        "avatar": null
+    },
     
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/04/22/first-post",
-            "title": "First post",
-            "summary": "Not sure what this is yet.",
-            "content_text": "But maybe we’ll find out.",
-            "content_html": "<p>But maybe we’ll find out.</p>",
-            "url": "http://localhost:4000/2020/04/22/first-post",
+            "id": "http://localhost:4000/rickshaw/first-post",
+            "title": "What is Rickshaw?",
+            "summary": null,
+            "content_text": "No idea. But maybe we’ll find out.",
+            "content_html": "<p>No idea. But maybe we’ll find out.</p>",
+            "url": "http://localhost:4000/rickshaw/first-post",
             
             
             
@@ -27,8 +31,11 @@
             "date_published": "2020-04-22T00:00:00-07:00",
             "date_modified": "2020-04-22T00:00:00-07:00",
             
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "author":  {
+                "name": "Buster Benson",
+                "url": "https://busterbenson.com",
+                "avatar": null
+                }
                 
             
         }

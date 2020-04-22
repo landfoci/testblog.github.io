@@ -1,8 +1,7 @@
 ---
-title: First post
+title: What is Rickshaw?
 layout: post
-description: Not sure what this is yet.
-tags: [css]
+tags: [thoughts]
 ---
 
-But maybe we'll find out.
+No idea. But maybe we'll find out.

@@ -2,12 +2,12 @@
   
     {
 
-      "title"    : "First post",
-      "url"      : "/2020/04/22/first-post",
+      "title"    : "What is Rickshaw?",
+      "url"      : "/rickshaw/first-post",
       "category" : "",
-      "tags"     : "css",
+      "tags"     : "thoughts",
       "date"     : "2020-04-22 00:00:00 -0700",
-      "discription" : "Not sure what this is yet."
+      "discription" : ""
 
     } 
   

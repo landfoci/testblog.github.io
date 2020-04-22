@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-04-22T15:29:34-07:00</updated>
+ <title>Rickshaw</title>
+ <link href="http://localhost:4000/rickshaw/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/rickshaw/"/>
+ <updated>2020-04-22T15:56:21-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name></name>
+   <name>Buster Benson</name>
    <email></email>
  </author>
 
  
  <entry>
-   <title>First post</title>
-   <link href="http://localhost:4000/2020/04/22/first-post"/>
+   <title>What is Rickshaw?</title>
+   <link href="http://localhost:4000/rickshaw/first-post"/>
    <updated>2020-04-22T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/04/22/first-post</id>
-   <content type="html">&lt;p&gt;But maybe we’ll find out.&lt;/p&gt;
+   <id>http://localhost:4000/first-post</id>
+   <content type="html">&lt;p&gt;No idea. But maybe we’ll find out.&lt;/p&gt;
 </content>
  </entry>
  

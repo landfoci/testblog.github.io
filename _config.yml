@@ -62,8 +62,7 @@ defaults:
     values:
       layout: "post"
 prose: 
-  rooturl: '_posts/CURRENT_USER/'
-  siteurl: 'https://busterbenson.github.io/rickshaw/'
+  siteurl: 'https://busterbenson.github.io/rickshaw'
   media: 'assets/media'
   ignore:
     - /.github
