@@ -1,52 +1,52 @@
-site: Rickshaw
-url: https://busterbenson.github.io/rickshaw
+site: "Rickshaw"
+url: "https://busterbenson.github.io/rickshaw"
 baseurl: '/rickshaw'
-title: Rickshaw
-description: A group blog thing.
+title: 'Rickshaw'
+description: 'A group blog thing.'
 twitter:
   username: '@buster'
-  card: summary
-  creator: buster
+  card: 'summary'
+  creator: 'buster'
 author:
   twitter: '@buster'
-  name: Buster Benson
+  name: 'Buster Benson'
   avatar: 
-  url: https://busterbenson.com
+  url: 'https://busterbenson.com'
   twitter: '@buster'
 twitter: 
   username: '@buster'
-  card: summary
+  card: 'summary'
   creator: 
-permalink: pretty
-highlighter: non
+permalink: 'pretty'
+highlighter: 'none'
 exclude:
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
+  - '.jekyll-cache'
+  - 'Gemfile'
+  - 'Gemfile.lock'
 
 compress_html:
-  clippings: all
+  clippings: 'all'
   comments: ["<!-- ", " -->"]
 
 sass:
-  sass_dir: _sass
-  style:    :compressed
+  sass_dir: '_sass'
+  style:    ':compressed'
 
 plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap  
+  - 'jekyll-paginate'
+  - 'jekyll-seo-tag'
+  - 'jekyll-sitemap'  
 
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: '/:name'
   posts:
     output: true
-    permalink: /:slug
+    permalink: '/:slug'
   tags:
     output: true
-    permalink: /tag/:path/
+    permalink: '/tag/:path/'
 
 defaults:
   -
@@ -72,23 +72,23 @@ prose:
   siteurl: 'https://busterbenson.github.io/rickshaw/'
   media: 'assets/media'
   ignore:
-    - /.github
-    - /.jekyll-cache
-    - /_includes
-    - /_layouts
-    - /_plugins
-    - /_sass
-    - .gitignore
-    - 404.html 
-    - _config.yml
-    - atom.xml
-    - favicon.png
-    - feed.json
-    - Gemfile
-    - Gemfile.lock
-    - index.html
-    - LICENSE.md 
-    - robots.txt
+    - '/.github'
+    - '/.jekyll-cache'
+    - '/_includes'
+    - '/_layouts'
+    - '/_plugins'
+    - '/_sass'
+    - '.gitignore'
+    - '404.html'
+    - '_config.yml'
+    - 'atom.xml'
+    - 'favicon.png'
+    - 'feed.json'
+    - 'Gemfile'
+    - 'Gemfile.lock'
+    - 'index.html'
+    - 'LICENSE.md' 
+    - 'robots.txt'
   users: 
     - login: "busterbenson"
       user: "Buster"
