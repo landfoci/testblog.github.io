@@ -50,19 +50,16 @@ collections:
     permalink: '/tag/:path/'
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "/rickshaw"
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: "/pages"
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: "/posts"
       type: "posts"
     values:
