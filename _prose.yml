@@ -8,9 +8,12 @@ prose:
     - '/_layouts'
     - '/_plugins'
     - '/_sass'
+    - '/_site'
     - '.gitignore'
     - '404.html'
     - '_config.yml'
+    - '_prose.yml'
+    - '/assets'
     - 'atom.xml'
     - 'favicon.png'
     - 'feed.json'
@@ -19,6 +22,8 @@ prose:
     - 'index.html'
     - 'LICENSE.md' 
     - 'robots.txt'
+    - 'search.js'
+    - 'search.json'
   users: 
     - login: "busterbenson"
       user: "Buster"
