@@ -33,16 +33,16 @@ prose:
       - name: "title"
         field:
           element: "text"
-          text: "Title"
+          label: "Title"
           value: ""
-      - name: "User"
+      - name: "author"
         field:
           element: "hidden"
           value: CURRENT_USER
       - name: "description"
         field:
           element: "text"
-          text: "Summary"
+          label: "Summary"
           value: ""
       - name: "tags"
         field:
