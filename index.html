@@ -1,12 +1,72 @@
 ---
-layout: default
+title:  Rickshaw
+layout: fullscreen
 ---
 
+
 <section class="posts">
-<ul>
-{% for post in site.posts %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
-{% endfor %}
-</ul>
+	<p class="mb-1"><em>A bunch of people in a rickshaw.</em></p>
+	{% assign pages = site.pages | sort: "date" %}
+	{% assign codexes = pages | where: "layout", "codex" %}
+	{% assign lives_in_weeks = pages | where: "layout", "life-in-weeks" %}
+	{% assign one_words = pages | where: "layout", "one-word" %}
+
+	<div class="row inline-block">
+		{% if one_words != empty %}
+			<div class="col"> 
+				<strong class="mt-1">One Word</strong>
+				<ul>
+					{% for page in one_words %}
+						{% assign author = site.data.people[page.author] %}
+				  	<li>
+				  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
+				  	</li>
+				  {% endfor %}
+				</ul>
+			</div>
+		{% endif %}
+
+		{% if codexes != empty %}
+			<div class="col">
+				<strong class="mt-1">Codexes</strong>
+				<ul>
+					{% for page in codexes %}
+						{% assign author = site.data.people[page.author] %}
+				  	<li>
+				  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
+				  	</li>
+				  {% endfor %}
+				</ul>
+			</div>			
+		{% endif %}
+
+		{% if lives_in_weeks != empty %}
+			<div class="col">
+				<strong class="mt-1">Lives in Weeks</strong>
+				<ul>
+					{% for page in lives_in_weeks %}
+						{% assign author = site.data.people[page.author] %}
+				  	<li>
+				  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
+				  	</li>
+				  {% endfor %}
+				</ul>
+			</div>
+		{% endif %}
+	</div>
+
+
+	<strong class="mt-1">Updates</strong>
+	<ul>
+		{% for post in site.posts %}
+	  	<li>
+	  		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
+	  		{% if post.author %}
+	  			@{{ post.author }}
+	  		{% endif %}
+	  	</li>
+	  {% endfor %}
+	</ul>
+
 </section>
 

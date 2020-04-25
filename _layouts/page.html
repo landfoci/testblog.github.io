@@ -2,8 +2,23 @@
 layout: default
 ---
 
+{% assign author = site.data.people[page.author] %}
+
 <section class="post">
-  <h2>{{ page.title }}</h2>
+  {% include header_breadcrumb.html %}
+  <div class="meta">
+  	<time datetime="{{ page.date | date_to_xmlschema }}">
+  		{{ page.date | date: "%B %-d, %Y" }}
+  	</time> 
+  	{% if page.tags != empty %}
+	  	&middot; 
+	  	{% for tag in page.tags %}
+	    	<a href="/rickshaw/tag/{{tag}}">{{tag}}</a>
+	  		{% unless forloop.last %}, {% endunless %}
+	  	{% endfor %}
+	  {% endif %}
+  </div>
+
   {{ content }}
 </section>
 

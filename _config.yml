@@ -36,15 +36,15 @@ sass:
 plugins:
   - 'jekyll-paginate'
   - 'jekyll-seo-tag'
-  - 'jekyll-sitemap'  
+  - 'jekyll-sitemap'
 
 collections:
   pages:
     output: true
-    permalink: '/:name'
+    permalink: '/:path'
   posts:
     output: true
-    permalink: '/:slug'
+    permalink: '/:path'
   tags:
     output: true
     permalink: '/tag/:path/'

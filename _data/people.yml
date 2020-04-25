@@ -1,0 +1,10 @@
+buster: &buster
+  author: true
+  name: Buster
+  username: buster
+  path: buster/
+
+authors:
+  - *buster
+
+

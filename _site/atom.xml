@@ -4,7 +4,7 @@
  <title>Rickshaw</title>
  <link href="http://localhost:4000/rickshaw/atom.xml" rel="self"/>
  <link href="http://localhost:4000/rickshaw/"/>
- <updated>2020-04-22T17:03:48-07:00</updated>
+ <updated>2020-04-24T23:05:23-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Buster Benson</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What is Rickshaw?</title>
-   <link href="http://localhost:4000/rickshaw/first-post"/>
+   <link href="http://localhost:4000/rickshaw/buster/2020-04-22-what-is-rickshaw"/>
    <updated>2020-04-22T00:00:00-07:00</updated>
-   <id>http://localhost:4000/first-post</id>
+   <id>http://localhost:4000/buster/what-is-rickshaw</id>
    <content type="html">&lt;p&gt;No idea. But maybe we’ll find out.&lt;/p&gt;
 </content>
  </entry>

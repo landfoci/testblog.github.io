@@ -17,16 +17,16 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/rickshaw/first-post",
+            "id": "http://localhost:4000/rickshaw/buster/2020-04-22-what-is-rickshaw",
             "title": "What is Rickshaw?",
             "summary": null,
             "content_text": "No idea. But maybe we’ll find out.",
             "content_html": "<p>No idea. But maybe we’ll find out.</p>",
-            "url": "http://localhost:4000/rickshaw/first-post",
+            "url": "http://localhost:4000/rickshaw/buster/2020-04-22-what-is-rickshaw",
             
             
             
-            
+            "tags": ["thoughts","meta"],
             
             "date_published": "2020-04-22T00:00:00-07:00",
             "date_modified": "2020-04-22T00:00:00-07:00",

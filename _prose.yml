@@ -1,4 +1,5 @@
 prose:
+  rooturl: '_posts/'
   siteurl: 'https://busterbenson.github.io/rickshaw/'
   media: 'assets/media'
   ignore:
@@ -26,8 +27,7 @@ prose:
     - 'search.json'
   users: 
     - login: "busterbenson"
-      user: "Buster"
-      profile_link: "/p/buster"
+      user: "buster"
   metadata:
     _posts:
       - name: "title"
@@ -37,7 +37,7 @@ prose:
           value: ""
       - name: "author"
         field:
-          element: "hidden"
+          element: "text"
           value: CURRENT_USER
       - name: "description"
         field:

@@ -3,8 +3,8 @@ module Jekyll
     safe true
 
     def generate(site)
-      tags = site.posts.docs.flat_map { |post| post.data['tags'] || [] }.to_set
-      tags.each do |tag|
+      post_tags = site.posts.docs.flat_map { |post| post.data['tags'] || [] }.to_set
+      post_tags.each do |tag|
         site.pages << TagPage.new(site, site.source, tag)
       end
     end
