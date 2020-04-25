@@ -3,16 +3,10 @@
     "title": "Rickshaw",
     "home_page_url": "http://localhost:4000/rickshaw/",
     "feed_url": "http://localhost:4000/rickshaw/feed.json",
-    "description": "A group blog thing.",
+    "description": "A group website thing.",
     "icon": "http://localhost:4000/rickshaw/apple-touch-icon.png",
     "favicon": "http://localhost:4000/rickshaw/favicon.ico",
     "expired": false,
-    
-    "author":  {
-        "name": "Buster Benson",
-        "url": "https://busterbenson.com",
-        "avatar": null
-    },
     
 "items": [
     

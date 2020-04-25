@@ -15,7 +15,6 @@ max_width: true
 	{% for page in pages %}
   	<p>
   		<a href="/rickshaw{{ page.url }}">{{ page.title }}</a>
-  		• {{ page.date | date: "%B %-d, %Y" }}
   	</p>
   {% endfor %}
 
@@ -24,7 +23,7 @@ max_width: true
 	{% for post in posts %}
   	<p>
   		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
-  		• {{ page.date | date: "%B %-d, %Y" }}
+  		• {{ post.date | date: "%B %-d, %Y" }}
   	</p>
   {% endfor %}
 
