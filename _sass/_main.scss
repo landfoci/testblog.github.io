@@ -1,5 +1,4 @@
 *,:after,:before {
-	//box-sizing:border-box;
 	background-color:inherit;
 	color:inherit;
 	margin:0;
@@ -140,7 +139,6 @@ strong, b {
 
 .posts li {
 	align-items:center;
-	display:flex;
 	justify-content:space-between;
 	margin-bottom: .5rem;
 }
@@ -158,7 +156,7 @@ strong, b {
 }
 
 .post ul, .project ul, .post ol  {
-	//list-style-position: inside;
+	list-style-position: inside;
 }
 
 main {
@@ -205,11 +203,53 @@ figcaption {
   font-size: smaller;
 }
 
+// Layout
+.max_width {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+// Lists
+ul, ol {
+	margin-bottom: 1rem;
+	padding-left: 20px;
+}
+
+
+// Popover
+.popover {
+  border:1px solid #000;
+  .arrow {
+  	display: none;
+  }
+	.popover-header {
+		border-radius: 10px 10px 0 0;
+	}
+	.popover-body {
+		border-radius: 10px;
+	}	
+}
+.popover.bottom .arrow:after {
+  border-bottom-color: white;
+}
+.popover.bottom{
+  border:1px solid red;
+}
+.popover.top {
+  border: 1px solid green;
+}
+.popover.right {
+  border: 1px solid blue;
+}
+.popover.left {
+  //border: 1px solid cyan;
+}
+.popover.bottom .arrow {
+	border-bottom-color: red;
+}
+
 // Life in weeks
 .life-in-weeks {
-	div {
-		display: inline-block;
-	}
 	.border-tertiary {
 		border-color: #eee;
 		color: #666;
@@ -222,4 +262,8 @@ figcaption {
 			text-decoration: none;
 		}
 	}
+}
+
+// One Word
+.oneword {
 }

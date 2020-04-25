@@ -1,15 +1,14 @@
 ---
 layout: fullscreen
 title: Tags
+max_width: true
 ---
 
 <section class="posts">
-  <h2>
-    <a href="/rickshaw">{{ site.title }}</a> /
-    Tags
-  </h2>
+  <h2>🐲 <a href="{{ site.baseurl }}/">{{ site.title }}</a> > {{ page.title }}</h2>
 
 	{% assign tags = site.tags | sort %}
+	({{ tags }})
 	<ul>
 		{% for tag in tags %}
 			<li><a href="/rickshaw/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %}, {% endunless %}</a></li>

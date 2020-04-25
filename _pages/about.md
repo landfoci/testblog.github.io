@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
 A group blog about things. 

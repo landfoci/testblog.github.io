@@ -1,0 +1,23 @@
+---
+layout: fullscreen
+title: Archive
+max_width: true
+---
+
+<section class="posts">
+  <h2>🐲 <a href="{{ site.baseurl }}/">{{ site.title }}</a> > Archive</h2>
+  <p class="mb-1">{{ content }}</p>
+
+	<ul class="posts mt-4">
+	{% for post in page.posts %}
+		{% assign author = site.data.people[post.author] %}
+	  <li>
+	    <span class="post-date"></span>
+	    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			{% if author %}
+				• <a href="/rickshaw/{{ author.username }}">{{ author.name }}</a>
+			{% endif %}
+	    • {{ post.date | date: "%b %-d, %Y" }}
+	{% endfor %}
+	</ul>
+</section>

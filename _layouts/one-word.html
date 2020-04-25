@@ -1,10 +1,21 @@
 ---
 layout: fullscreen
+max_width: true
 ---
 
 {% assign author = site.data.people[page.author] %}
 
-<section class="posts">
+<section class="oneword">
 	{% include header_breadcrumb.html %}
 	
+	<div class="content mt-4">
+	  {{ content }}		
+	</div>
+
+  <h2 class="mt-4">Other 2020 Words</h2>
+  <ul>
+  	<li><a href="https://www.drjasonfox.com/word">Bard</a></li>
+  	<li><a href="https://www.kevinmcgillivray.net/word/">Diver</a></li>
+  	<li><a href="https://christinchong.com/word">Hearth</a></li>
+  </ul>
 </section>

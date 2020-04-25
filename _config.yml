@@ -3,21 +3,7 @@ site: "Rickshaw"
 url: "https://busterbenson.github.io/rickshaw"
 baseurl: '/rickshaw'
 title: 'Rickshaw'
-description: 'A group blog thing.'
-twitter:
-  username: '@buster'
-  card: 'summary'
-  creator: 'buster'
-author:
-  twitter: '@buster'
-  name: 'Buster Benson'
-  avatar: 
-  url: 'https://busterbenson.com'
-  twitter: '@buster'
-twitter: 
-  username: '@buster'
-  card: 'summary'
-  creator: 
+description: 'A group website thing.'
 permalink: 'pretty'
 highlighter: 'none'
 exclude:
@@ -37,6 +23,7 @@ plugins:
   - 'jekyll-paginate'
   - 'jekyll-seo-tag'
   - 'jekyll-sitemap'
+  - 'jekyll-archives'
 
 collections:
   pages:
@@ -64,3 +51,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+jekyll-archives:
+  enabled: ['year', 'month']
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'

@@ -125,7 +125,7 @@
 '2006-05-28':
   - name: "🎂 I turn 30. Higher highs and lower lows."
     category: "birthday"
-    link: "/blog/2006/05-31-higher-highs-lower-lows/"
+    link: "https://busterbenson.com/blog/2006/05-31-higher-highs-lower-lows/"
     tags: ["annual review"]
 
 '2006-09-06':
@@ -149,7 +149,7 @@
 '2007-05-28':
   - name: "🎂 I turn 31. Double down."
     category: "birthday"
-    link: "/blog/2007/05-29-double-down/"
+    link: "https://busterbenson.com/blog/2007/05-29-double-down/"
     tags: ["annual review"]
 
 '2007-06-29':
@@ -160,7 +160,7 @@
 '2008-05-28':
   - name: "🎂 I turn 32. No problem."
     category: "birthday"
-    link: "/blog/2008/05-27-no-problem/"
+    link: "https://busterbenson.com/blog/2008/05-27-no-problem/"
     tags: ["annual review"]
 
 '2008-09-15':
@@ -191,7 +191,7 @@
 '2009-05-28':
   - name: "🎂 I turn 33. Frugal to the max."
     category: "birthday"
-    link: "/blog/2009/05-28-frugal-to-the-max/"
+    link: "https://busterbenson.com/blog/2009/05-28-frugal-to-the-max/"
     tags: ["annual review"]
 
 '2009-12-16':
@@ -208,7 +208,7 @@
 '2010-05-28':
   - name: "🎂 I turn 34. Cultivating the core."
     category: "birthday"
-    link: "/blog/2010/05-28-cultivate-the-core/"
+    link: "https://busterbenson.com/blog/2010/05-28-cultivate-the-core/"
     tags: ["annual review"]
 
 '2010-09-01':
@@ -219,7 +219,7 @@
 '2011-05-28':
   - name: "🎂 I turn 35. Love the struggle."
     category: "birthday"
-    link: "/blog/2011/05-28-love-the-struggle/"
+    link: "https://busterbenson.com/blog/2011/05-28-love-the-struggle/"
     tags: ["annual review"]
 
 '2011-07-01':
@@ -235,7 +235,7 @@
 '2012-05-28':
   - name: "🎂 I turn 36. Talk it out."
     category: "birthday"
-    link: "/blog/2012/05-28-talk-it-out/"
+    link: "https://busterbenson.com/blog/2012/05-28-talk-it-out/"
     tags: ["annual review"]
 
 '2012-07-11':
@@ -261,7 +261,7 @@
 '2013-05-28':
   - name: "🎂 I turn 37. More kiloslogs."
     category: "birthday"
-    link: "/blog/2013/05-28-more-kiloslogs/"
+    link: "https://busterbenson.com/blog/2013/05-28-more-kiloslogs/"
     tags: ["annual review"]
 
 '2013-12-23':
@@ -276,18 +276,18 @@
 '2014-05-28':
   - name: "🎂 I turn 38. Cultivate quality time."
     category: "birthday"
-    link: "/blog/2014/05-28-cultivate-quality-time/"
+    link: "https://busterbenson.com/blog/2014/05-28-cultivate-quality-time/"
     tags: ["annual review"]
 
 '2014-09-09':
-  - name: "We buy a house in Berkeley."
+  - name: "🏡 We buy a house in Berkeley."
     category: "family"
     tags: ["home"]
 
 '2015-05-28':
   - name: "🎂 I turn 39. Make wiggle room."
     category: "birthday"
-    link: "/blog/2015/06-13-make-wiggle-room/"
+    link: "https://busterbenson.com/blog/2015/06-13-make-wiggle-room/"
     tags: ["annual review"]
 
 '2015-06-03':
@@ -308,7 +308,7 @@
 '2016-05-28':
   - name: "🎂 I turn 40. Mind the loops."
     category: "birthday"
-    link: "/blog/2016/05-28-mind-the-loops/"
+    link: "https://busterbenson.com/blog/2016/05-28-mind-the-loops/"
     tags: ["annual review"]
 
 '2016-08-06':
@@ -330,11 +330,11 @@
 '2017-05-28':
   - name: "🎂 I turn 41. Seek endarkenment."
     category: "birthday"
-    link: "/blog/2017/05-28-seek-endarkenment/"
+    link: "https://busterbenson.com/blog/2017/05-28-seek-endarkenment/"
     tags: ["annual review"]
 
 '2017-11-12':
-  - name: "My grandfather passes away."
+  - name: "👴🏻 My grandfather passes away."
     category : "family"
 
 '2018-01-30':
@@ -355,7 +355,7 @@
 '2018-05-28':
   - name: "🎂 I turn 42. Dig deeper."
     category: "birthday"
-    link: "/blog/2018/07-02-dig-deeper/"
+    link: "https://busterbenson.com/blog/2018/07-02-dig-deeper/"
     tags: ["annual review"]
 
 '2018-09-23':
@@ -369,13 +369,13 @@
     tags: ["why are we yelling?"]
 
 '2019-11-19':
-  - name: "Why Are We Yelling? is published"
+  - name: "😱 Why Are We Yelling? is published"
     category: "writing"
     tags: ["why are we yelling?"]
     link: "/book"
 
 '2020-03-14':
-  - name: "First day of shelter-in-place for COVID-19"
+  - name: "🏠 First day of shelter-in-place for COVID-19"
     category: "world"
 
 '2052-08-05':

@@ -4,7 +4,14 @@ buster: &buster
   username: buster
   path: buster/
 
+kev_mcg: &kev_mcg
+  author: true
+  name: Kevin
+  username: kev_mcg
+  path: kev_mcg/
+
 authors:
   - *buster
+  - *kev_mcg
 
 

@@ -1,5 +1,6 @@
 ---
 layout: fullscreen
+max_width: true
 ---
 
 {% assign author = site.data.people[page.author] %}
@@ -20,8 +21,9 @@ layout: fullscreen
     {% endif %}
   </div>
 
-  {{ content }}
-      
+  <div class="mt-4">
+    {{ content }}
+  </div>    
 </section>
 
 

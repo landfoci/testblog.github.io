@@ -1,6 +1,7 @@
 ---
 title: Life in Weeks
 layout: fullscreen
+max_width: false
 ---
 
 {% assign author = site.data.people[page.author] %}
@@ -49,10 +50,10 @@ layout: fullscreen
 		    <div class="border border-gray {{ year_border_class }} float-left text-truncate" 
 		    		 style="height: 2em; max-height: 2em; padding: 2px 5px; margin: 2px;" 
 		    		 data-toggle="popover" 
-		    		 data-placement="auto" 
+		    		 data-placement="right" 
 		    		 data-trigger="hover" 
-		    		 data-content="{{ year }}">
-		      {{ age }} years old
+		    		 data-content="">
+		      {{ age }} in {{ year }}
 		    </div>
 
 		    {% for week in (0..52) %}
@@ -67,7 +68,7 @@ layout: fullscreen
 		    			{% assign specific_date = this_week_date | date: "%s" | plus: day_modifier | date: "%Y-%m-%d" %}
 
 							{% for event in data[specific_date] %}
-								<a {% if event.link %}href=""{% endif %} title="{{ specific_date | date: "%b %-d, %Y" }}" target="_new" {% if event.desc %}data-toggle="popover" data-placement="bottom"{% endif %} title="{{ specific_date }}" data-trigger="hover" data-content="{{ event.desc }}" class="">{{ event.name }}</a>
+								<a {% if event.link %}href="{{ event.link }}"{% endif %} title="{{ specific_date | date: "%b %-d, %Y" }}" target="_new" {% if event.desc %}data-toggle="popover" data-placement="auto"{% endif %} title="{{ specific_date }}" data-trigger="hover" data-content="{{ event.desc }}" class="">{{ event.name }}</a>
 							{% endfor %}
 
 		    		{% endfor %}
