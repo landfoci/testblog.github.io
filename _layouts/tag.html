@@ -10,11 +10,14 @@ max_width: true
     {{ page.tag }}
   </h2>
 
-  <ul class="mt-4">
+  <div class="mt-4">
     {% for post in site.posts %}
 	    {% if post.tags contains page.tag %}
-	    	<li><a class="post" href="/rickshaw/{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
+	    	<p>
+          <a class="post" href="/rickshaw/{{ post.url }}">{{ post.title }}</a>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        </p>
 	    {% endif %}
     {% endfor %}
-  </ul>
+  </div>
 </section>
