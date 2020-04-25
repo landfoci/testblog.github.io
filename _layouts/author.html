@@ -1,15 +1,15 @@
 ---
-layout: default
+layout: fullscreen
 ---
 
 <section class="posts">
-  <h2><a href="{{ site.baseurl }}/">{{ site.title }}</a> > {{ page.title }}</h2>
+  <h2>🐲 <a href="{{ site.baseurl }}/">{{ site.title }}</a> > {{ page.title }}</h2>
   <p class="mb-1">{{ content }}</p>
 
   {% assign author = site.data.people[page.author] %}
 
 
-  <p class="mt-1"><strong>Pages</strong></p>
+  <p class="mt-4"><strong>Pages</strong></p>
 	<ul class="mb-1">
 		{% assign pages = site.pages | where: "author", author.username | where: "index", nil | sort: "title" %}
 		{% for page in pages %}
@@ -20,7 +20,7 @@ layout: default
 	  {% endfor %}
 	</ul>
 
-  <p><strong>Posts</strong></p>
+  <p class="mt-4"><strong>Posts</strong></p>
 	<ul class="mb-1">
 		{% assign posts = site.posts | where: "author", author.username | where: "index", nil | sort: "date" %}
 		{% for post in posts %}

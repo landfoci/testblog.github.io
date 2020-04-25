@@ -5,7 +5,11 @@ layout: fullscreen
 
 
 <section class="posts">
-	<p class="mb-1"><em>A bunch of people in a rickshaw.</em></p>
+	<div class="mb-4"><strong>🐲 People in the rickshaw:</strong>
+		{% for person in site.data.people.authors %}
+			<a href="/rickshaw/{{ person.username }}">{{ person.name }}</a>
+		{% endfor %}
+	</div>
 	{% assign pages = site.pages | sort: "date" %}
 	{% assign codexes = pages | where: "layout", "codex" %}
 	{% assign lives_in_weeks = pages | where: "layout", "life-in-weeks" %}
@@ -56,7 +60,7 @@ layout: fullscreen
 	</div>
 
 
-	<strong class="mt-1">Updates</strong>
+	<strong class="mt-4">Updates</strong>
 	<ul>
 		{% for post in site.posts %}
 	  	<li>

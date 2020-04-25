@@ -12,7 +12,7 @@ layout: fullscreen
 {% assign start_month = split_start[1] %}
 {% assign start_day = split_start[2] %}
 
-{% assign timeline_end = page.end_year %}
+{% assign end_year = page.end_year %}
 {% assign year_border_class = "border-secondary" %} 
 
 <section class="life-in-weeks">
@@ -22,11 +22,30 @@ layout: fullscreen
 		</div>
 	</div>
 
-	<div class="row justify-content-center mt-4">
+	<div class="row justify-content-center">
 		<div class="col-12">
-			{% for year in (1976..1978) %}
+			{% for year in (start_year..end_year) %}
 				{% capture this_year = year %}{{ year }}-{{ start_month }}-{{ start_day }}{% endcapture %}
 				{% assign age = year | minus: start_year %}
+				{% assign age_modulo = age | modulo: 10 %}
+				{% if age_modulo == 0  %}
+			    <br clear="all" />
+			    <a name="decade-{{ age }}"></a>
+			    <div class="row text-left display-block w-100 mt-4">
+				    <div class="col sticky-top mt-1" style="top: 60px; background-color: #fff;"><h3>
+				      {% if age == 0 %}
+				        My first ten years
+				      {% elsif age == 10 %}
+				        My teens
+				      {% elsif age == 100 %}
+				        Endgame
+				      {% else %}
+				        My {{ age }}s
+				      {% endif %}
+				    </h3></div>
+				  	</div>
+				{% endif %}  
+
 		    <div class="border border-gray {{ year_border_class }} float-left text-truncate" 
 		    		 style="height: 2em; max-height: 2em; padding: 2px 5px; margin: 2px;" 
 		    		 data-toggle="popover" 
