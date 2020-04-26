@@ -5,5 +5,4 @@ author: christin
 index: true
 published: true
 ---
-
-My page
+Welcome to Christin's page! :)
