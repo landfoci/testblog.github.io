@@ -25,8 +25,12 @@ prose:
     - 'search.js'
     - 'search.json'
   users: 
-    - login: "busterbenson"
-      user: "buster"
+    - login: busterbenson
+      user: buster
+    - login: kmcgillivray
+      user: kev_mcg
+    - login: codestin
+      user: christin
   metadata:
     _posts:
       - name: "title"
@@ -37,6 +41,7 @@ prose:
       - name: "author"
         field:
           element: "text"
+          label: "Author"
           value: CURRENT_USER
       - name: "description"
         field:
@@ -48,11 +53,8 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          alterable: true
-          options:
-            - name: Thoughts
-              value: thoughts
+          alterable: true            
       - name: "layout"
         field:
           element: "hidden"
-          value: "page"
+          value: "post"
