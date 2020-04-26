@@ -1,15 +1,7 @@
 ---
-name: Setup help
-about: If you're trying to fork this and start your own community website, but ran
-  into trouble, feel free to ask for help.
-title: Help setting up my own site
+name: How do I?
+about: If you're new to Github's weird workflows or having trouble wrapping your head around Jekyll, feel free to ask for help.
+title: How do I...
 labels: help-setup
-assignees: busterbenson
-
+assignees: 
 ---
-
-# What I'm trying to do
-
-# An obstacle I ran into
-
-# What I need help figuring out

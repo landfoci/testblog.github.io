@@ -1,12 +1,7 @@
 ---
-name: Discussion topic
+name: Start a discussion
 about: If you have something you want to discuss with others, try this.
-title: Topic for discussion
+title: I want to discuss...
 labels: discussion
 assignees: 
-
 ---
-
-# The topic
-
-# Details

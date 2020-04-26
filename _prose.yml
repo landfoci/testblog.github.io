@@ -60,3 +60,13 @@ prose:
           label: "Layout"
           element: "text"
           value: "post"
+      - name: "replying_to_url"
+        field:
+          label: "Replying to (full URL)"
+          element: "text"
+          value: ""
+      - name: "comments_url"
+        field:
+          label: "Comments link (full URL)"
+          element: "text"
+          value: ""
