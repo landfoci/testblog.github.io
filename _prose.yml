@@ -33,6 +33,8 @@ prose:
       user: christin
     - login: spratlas
       user: splangster
+    - login: ienjoy
+      user: delightfuljon
   metadata:
     _posts:
       - name: "title"
