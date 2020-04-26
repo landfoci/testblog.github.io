@@ -18,7 +18,7 @@ christin: &christin
 
 splangster: &splangster
   author: true
-  name: Kate Kennedy
+  name: Kate
   username: splangster
   path: splangster/
 
