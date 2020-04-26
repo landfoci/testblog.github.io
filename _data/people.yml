@@ -22,10 +22,17 @@ splangster: &splangster
   username: splangster
   path: splangster/
 
+delightfuljon: &delightfuljon
+  author: true
+  name: Jon
+  username: delightfuljon
+  path: delightfuljon/
+
 authors:
   - *buster
   - *kev_mcg
   - *christin 
   - *splangster
+  - *delightfuljon
 
 
