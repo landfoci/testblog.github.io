@@ -3,9 +3,7 @@ title: About
 layout: page
 ---
 
-A group blog about things. 
-
-Feel free to poke around.
+A community website about things. 
 
 <style>
 	#search-container {

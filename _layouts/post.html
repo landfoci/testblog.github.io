@@ -18,12 +18,58 @@ max_width: true
         <a href="/rickshaw/tag/{{tag}}">{{tag}}</a>
         {% unless forloop.last %}, {% endunless %}
       {% endfor %}
-    {% endif %}
+    {% endif %} 
   </div>
 
   <div class="mt-4">
+    {% if page.replying_to_post %}
+      {% assign in_reply_to = site.posts | where: "url", page.replying_to_post | first %}
+      {% if in_reply_to %}
+        <div class="alert alert-secondary">
+          In reply to <strong><a href="/rickshaw{{ in_reply_to.url }}">{{ in_reply_to.title }}</a></strong>
+          {% assign in_reply_author = site.data.people[in_reply_to.author] %}
+          {% if in_reply_author %}
+            by <a href="/rickshaw/{{ in_reply_author.path }}">{{ in_reply_author.name }}</a>
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endif %}
+
     {{ content }}
-  </div>    
+
+    {% if page.comments_url %}
+      <div class="mt-4"><a href="{{page.comments_url}}" class="btn btn-outline-dark btn-sm" role="button" target="_new">Share thoughts</a></div>
+    {% endif %}
+  </div>
+
+  {% assign replies = site.posts | where: "replying_to_post", page.url %}
+  {% if replies != empty %}
+    <div class="alert alert-secondary mt-5">
+      {% if replies.size == 1 %}
+        1 reply below&hellip;
+      {% else %}
+        {{ replies | size }} replies below&hellip;
+      {% endif %}
+    </div>
+
+    <div class="mt-2 ml-2">
+      {% for reply in replies %}
+        {% assign reply_author = site.data.people[reply.author] %}
+          <h2>
+            <a href="/rickshaw{{reply.url}}">{{ reply.title }}</a> 
+            • A reply 
+            {% if reply_author %}
+            from <a href="/rickshaw/{{ reply_author.path }}">{{ reply_author.name }}</a>
+            {% endif %}
+          </h2>
+          <p>
+            {{ reply.excerpt }}
+            <a href="/rickshaw{{reply.url}}">Read more&hellip;</a> 
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
 </section>
 
 
