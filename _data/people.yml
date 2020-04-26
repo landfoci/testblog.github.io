@@ -28,11 +28,18 @@ delightfuljon: &delightfuljon
   username: delightfuljon
   path: delightfuljon/
 
+miri: &miri
+  author: true
+  name: Miri
+  username: miri
+  path: miri/
+
 authors:
   - *buster
   - *kev_mcg
   - *christin 
   - *splangster
   - *delightfuljon
+  - *miri
 
 

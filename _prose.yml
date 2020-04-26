@@ -35,6 +35,8 @@ prose:
       user: splangster
     - login: ienjoy
       user: delightfuljon
+    - login: schlauberg
+      user: miri
   metadata:
     _posts:
       - name: "title"
