@@ -2,10 +2,22 @@
 layout: fullscreen
 max_width: true
 ---
-
 {% assign author = site.data.people[page.author] %}
+{% assign codex   = site.data[page.author][page.datafile] %}
 
-<section class="posts">
+<section class="codex">
 	{% include header_breadcrumb.html %}
 
+  <div class="mt-4">
+
+  	{% for sub_token in codex.categories %}
+			{% assign sub = codex[sub_token] %}
+			<h2>{{ sub.name }}</h2>
+  		<ul>
+  			{% for belief in sub.beliefs %}
+  				<li>{{ belief.desc }}</li>
+  			{% endfor %}
+  		</ul>
+  	{% endfor %}
+  </div>
 </section>
