@@ -71,7 +71,9 @@ Dr. Fox encouraged giving ourselves symbolic reminders of our chosen word.
 
 ![](https://christinchong.com/images/word_hearth_lighter.jpg)
 
-- **Website logo**: [![](https://christinchong.com/images/logo.png)](https://christinchong.com)
+- **Website logo**: 
+
+[![](https://christinchong.com/images/logo.png)](https://christinchong.com)
 
 # How you can help
 My overt impeding pattern is perfectionism (which Dr. Fox calls "the prettiest of the self-sabotages.") I possess dragon hoards of unshared notes and half-written essays. You can help by prodding me to share a bit more of myself on this website, or co-creating something with me.
