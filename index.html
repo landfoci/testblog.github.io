@@ -23,9 +23,9 @@ max_width: true
 				<strong class="mt-1">One Word</strong>
 				{% for page in one_words %}
 					{% assign author = site.data.people[page.author] %}
-			  	<p>
+			  	<div>
 			  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
-			  	</p>
+			  	</div>
 			  {% endfor %}
 			</div>
 		{% endif %}
@@ -35,9 +35,9 @@ max_width: true
 				<strong class="mt-1">Codex Vitae</strong>
 				{% for page in codexes %}
 					{% assign author = site.data.people[page.author] %}
-			  	<p>
+			  	<div>
 			  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
-			  	</p>
+			  	</div>
 			  {% endfor %}
 			</div>			
 		{% endif %}
@@ -47,26 +47,30 @@ max_width: true
 				<strong class="mt-1">Life in Weeks</strong>
 				{% for page in lives_in_weeks %}
 					{% assign author = site.data.people[page.author] %}
-			  	<p>
+			  	<div>
 			  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
-			  	</p>
+			  	</div>
 			  {% endfor %}
 			</div>
 		{% endif %}
 	</div>
 
-
-	<strong class="mt-4">Updates</strong>
-	{% for post in site.posts %}
-  	<div>
-  		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
-  		{% if post.author %}
-				{% assign author = site.data.people[post.author] %}
-  			• <a href="/rickshaw/{{ author.username }}">{{ author.name }}</a>
-  			• {{ post.date | date: "%B %-d, %Y" }}
-  		{% endif %}
-  	</div>
-  {% endfor %}
-
+	<div class="row mt-4">
+		<div class="col">
+			<strong>Updates</strong>
+			{% for post in site.posts %}
+		  	<div>
+		  		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
+		  		<span class="meta">
+			  		{% if post.author %}
+							{% assign author = site.data.people[post.author] %}
+			  			• <a href="/rickshaw/{{ author.username }}">{{ author.name }}</a>
+			  			• {{ post.date | date: "%b %-d" }}
+			  		{% endif %}
+			  	</span>
+		  	</div>
+		  {% endfor %}
+		</div>
+	</div>
 </section>
 

@@ -46,6 +46,7 @@ Every year I come up with a motto for the year. Last year's was "All in and with
 
 ## Associations
 * **The Pages and Princesses of Tarot** The youngest of the court cards, the Page (or Princess, depending on the deck) of Cups, Wands, Swords, and Coins are typically known as the enthusiastic novices of their suit. They lack the caution and the mastery that the other court carts grow to represent. 
-* **Mudskippers** Long-term amatuers of life on land.  
+* **Mudskippers** Long-term amateurs of life on land.  
 
 ## How You Can Help
+I will pay you $1 (or add it to a pool that gets donated to a good cause) if you catch me doing anything that I am doing in order to appear professional or as an expert in a way that it is clear that I do not intrinsically love doing that thing directly. 

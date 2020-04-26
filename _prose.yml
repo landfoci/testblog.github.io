@@ -39,26 +39,22 @@ prose:
     _posts:
       - name: "title"
         field:
-          element: "text"
           label: "Title"
+          element: "text"
           value: ""
       - name: "author"
         field:
-          element: "text"
           label: "Author"
-          value: CURRENT_USER
-      - name: "description"
-        field:
           element: "text"
-          label: "Summary"
-          value: ""
+          value: CURRENT_USER
       - name: "tags"
         field:
-          element: "multiselect"
           label: "Add Tags"
+          element: "multiselect"
           placeholder: "Choose Tags"
           alterable: true            
       - name: "layout"
         field:
-          element: "hidden"
+          label: "Layout"
+          element: "text"
           value: "post"

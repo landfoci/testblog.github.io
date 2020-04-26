@@ -12,10 +12,24 @@ max_width: true
 	  {{ content }}		
 	</div>
 
-  <h2 class="mt-4">Other 2020 Words</h2>
-  <ul>
-  	<li><a href="https://www.drjasonfox.com/word">Bard</a></li>
-  	<li><a href="https://www.kevinmcgillivray.net/word/">Diver</a></li>
-  	<li><a href="https://christinchong.com/word">Hearth</a></li>
-  </ul>
+
+  {% assign related_pages = site.pages | where: "layout", "one-word" %}
+
+  <div class="row inline-block">
+    {% if related_pages != empty %}
+      <div class="col-12 col-sm-4 col-md-2"> 
+        <strong class="mt-1">Other Words</strong>
+        {% for p in related_pages %}
+          <ul>
+            {% if page.author != p.author %}
+              {% assign a = site.data.people[p.author] %}
+              <li>
+                <a href="/rickshaw{{ page.url }}">{{ a.name }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
 </section>
