@@ -10,8 +10,15 @@ kev_mcg: &kev_mcg
   username: kev_mcg
   path: kev_mcg/
 
+christin: &christin
+  author: true
+  name: Christin
+  username: christin
+  path: christin/
+
 authors:
   - *buster
   - *kev_mcg
+  - *christin 
 
 
