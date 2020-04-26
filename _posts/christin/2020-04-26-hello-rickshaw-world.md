@@ -1,7 +1,7 @@
 ---
 layout: post
 author: christin
-published: false
+published: true
 title: Hello Rickshaw World
 ---
 ## Hello Rickshaw World!
