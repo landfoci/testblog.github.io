@@ -2,7 +2,6 @@
 title: 		 One Word
 layout: 	 one-word
 author: 	 buster
-tags: 		 ['one-word'] 
 published: true
 
 # https://www.kevinmcgillivray.net/word/

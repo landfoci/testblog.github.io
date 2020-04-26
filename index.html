@@ -32,7 +32,7 @@ max_width: true
 
 		{% if codexes != empty %}
 			<div class="col-12 col-sm-4 col-md-2">
-				<strong class="mt-1">Codexes</strong>
+				<strong class="mt-1">Codex Vitae</strong>
 				{% for page in codexes %}
 					{% assign author = site.data.people[page.author] %}
 			  	<p>
@@ -58,14 +58,14 @@ max_width: true
 
 	<strong class="mt-4">Updates</strong>
 	{% for post in site.posts %}
-  	<p>
+  	<div>
   		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
   		{% if post.author %}
 				{% assign author = site.data.people[post.author] %}
   			• <a href="/rickshaw/{{ author.username }}">{{ author.name }}</a>
   			• {{ post.date | date: "%B %-d, %Y" }}
   		{% endif %}
-  	</p>
+  	</div>
   {% endfor %}
 
 </section>

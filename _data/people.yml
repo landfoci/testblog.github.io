@@ -16,9 +16,14 @@ christin: &christin
   username: christin
   path: christin/
 
+splangster: &splangster
+  author: true
+  name: Kate Kennedy
+
 authors:
   - *buster
   - *kev_mcg
   - *christin 
+  - *splangster
 
 
