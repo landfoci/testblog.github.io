@@ -39,13 +39,13 @@ Every year I come up with a motto for the year. Last year's was "All in and with
 * Invite disagreement. 
 
 ## Projects
-* **Rickshaw.**
-* **750 Words.**
-* **Poetry.**
-* **Gardens.**
+* Rickshaw
+* 750 Words
+* Poetry
+* Gardens
 
 ## Associations
-* **The Pages and Princesses of Tarot.** The youngest of the court cards, the Page (or Princess, depending on the deck) of Cups, Wands, Swords, and Coins are typically known as the enthusiastic novices of their suit. They lack the caution and the mastery that the other court carts grow to represent. 
-* 
+* **The Pages and Princesses of Tarot** The youngest of the court cards, the Page (or Princess, depending on the deck) of Cups, Wands, Swords, and Coins are typically known as the enthusiastic novices of their suit. They lack the caution and the mastery that the other court carts grow to represent. 
+* **Mudskippers** Long-term amatuers of life on land.  
 
 ## How You Can Help

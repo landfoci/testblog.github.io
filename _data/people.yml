@@ -19,6 +19,8 @@ christin: &christin
 splangster: &splangster
   author: true
   name: Kate Kennedy
+  username: splangster
+  path: splangster/
 
 authors:
   - *buster
