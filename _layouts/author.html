@@ -10,22 +10,13 @@ max_width: true
   {% assign author = site.data.people[page.author] %}
 
 
-  <p class="mt-4"><strong>Pages</strong></p>
+  <div class="mt-4"><strong>Pages</strong></div>
 	{% assign pages = site.pages | where: "author", author.username | where: "index", nil | sort: "title" %}
-	{% for page in pages %}
-  	<p>
-  		<a href="/rickshaw{{ page.url }}">{{ page.title }}</a>
-  	</p>
-  {% endfor %}
+  {% include post_list.html posts=pages%}
 
-  <p class="mt-4"><strong>Posts</strong></p>
+  <div class="mt-4"><strong>Posts</strong></div>
 	{% assign posts = site.posts | where: "author", author.username | where: "index", nil | sort: "date" %}
-	{% for post in posts %}
-  	<p>
-  		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
-  		• {{ post.date | date: "%B %-d, %Y" }}
-  	</p>
-  {% endfor %}
+  {% include post_list.html posts=posts show_date=true%}
 
 </section>
 

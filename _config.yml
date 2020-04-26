@@ -19,10 +19,18 @@ sass:
   sass_dir: '_sass'
   style:    ':compressed'
 
+target-blank:
+  add_css_classes: external-link
+
+jekyll-mentions:
+  base_url: /rickshaw
+
 plugins:
-  - 'jekyll-paginate'
-  - 'jekyll-seo-tag'
-  - 'jekyll-sitemap'
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-mentions
 
 collections:
   pages:

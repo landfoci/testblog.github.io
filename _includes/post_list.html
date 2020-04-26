@@ -1,0 +1,8 @@
+{% for post in include.posts %}
+	<div>
+		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+		{% if include.show_date == true %}
+  		• {{ post.date | date: "%B %-d, %Y" }}
+		{% endif %}
+	</div>
+{% endfor %}

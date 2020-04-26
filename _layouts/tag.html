@@ -5,7 +5,7 @@ max_width: true
 
 <section class="posts">
   <h2>
-    <a href="/rickshaw/">{{ site.title }}</a> /
+    🐲 <a href="/rickshaw/">{{ site.title }}</a> /
     <a href="/rickshaw/tags">Tags</a> /
     {{ page.tag }}
   </h2>
@@ -13,10 +13,10 @@ max_width: true
   <div class="mt-4">
     {% for post in site.posts %}
 	    {% if post.tags contains page.tag %}
-	    	<p>
+	    	<div>
           <a class="post" href="/rickshaw/{{ post.url }}">{{ post.title }}</a>
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-        </p>
+        </div>
 	    {% endif %}
     {% endfor %}
   </div>
