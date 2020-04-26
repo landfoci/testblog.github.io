@@ -1,5 +1,4 @@
 prose:
-  rooturl: '_posts/'
   siteurl: 'https://busterbenson.github.io/rickshaw/'
   media: 'assets/media'
   ignore:
