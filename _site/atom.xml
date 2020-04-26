@@ -4,7 +4,7 @@
  <title>Rickshaw</title>
  <link href="http://localhost:4000/rickshaw/atom.xml" rel="self"/>
  <link href="http://localhost:4000/rickshaw/"/>
- <updated>2020-04-25T17:22:13-07:00</updated>
+ <updated>2020-04-25T18:16:49-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -17,7 +17,23 @@
    <link href="http://localhost:4000/rickshaw/buster/2020-04-22-what-is-rickshaw"/>
    <updated>2020-04-22T00:00:00-07:00</updated>
    <id>http://localhost:4000/buster/what-is-rickshaw</id>
-   <content type="html">&lt;p&gt;No idea. But maybe we’ll find out.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Rickshaw is like a website for a community of friends. It uses the simplest and most reliable forms of internet technology to create a shared space on the internet that is simple and infused with trust and good will. If you want to join, &lt;a href=&quot;http://twitter.com/buster&quot;&gt;DM me on Twitter&lt;/a&gt; or some other way.&lt;/p&gt;
+
+&lt;p&gt;Anyone that wants to build their own website for a community can fork this website for free and start their own. You need to know a bit about how to use Github, but it doesn’t require any super fancy technical knowledge.&lt;/p&gt;
+
+&lt;p&gt;The steps you could take are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Create a free &lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt; account.&lt;/li&gt;
+  &lt;li&gt;Fork this repo: &lt;a href=&quot;https://github.com/busterbenson/rickshaw&quot;&gt;busterbenson/rickshaw&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Download the repo to your computer and edit &lt;code&gt;_config.yml&lt;/code&gt; to give it your own name.&lt;/li&gt;
+  &lt;li&gt;Edit the &lt;code&gt;_data/people.yml&lt;/code&gt; file to include people you want in your community.&lt;/li&gt;
+  &lt;li&gt;Take a look at the content in the &lt;code&gt;_posts&lt;/code&gt; and &lt;code&gt;_pages&lt;/code&gt; directories and either edit them or delete them.&lt;/li&gt;
+  &lt;li&gt;When you’re ready, commit the files and turn on the Github Pages flag in Github’s settings.&lt;/li&gt;
+  &lt;li&gt;Go to &lt;code&gt;github.com/[your_username]/rickshaw&lt;/code&gt; to see your brand new website.&lt;/li&gt;
+  &lt;li&gt;Poke around and change things.&lt;/li&gt;
+  &lt;li&gt;Feel free to ask questions about how to do this on my &lt;a href=&quot;https://github.com/busterbenson/rickshaw/issues/new&quot;&gt;issues&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ol&gt;
+
 </content>
  </entry>
  
