@@ -1,4 +1,3 @@
-
 ---
 layout: one-word
 author: christin
