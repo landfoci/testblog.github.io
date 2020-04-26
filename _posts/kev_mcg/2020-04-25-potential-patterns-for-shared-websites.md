@@ -44,6 +44,6 @@ And here are some ideas for patterns a shared website might include:
 - A merged feed of updates from neighboring personal sites, and/or syndication of posts originally published on neighboring sites into the group blog
 - A shared newsletter
 - A group repository of relevant resources (bookmarked links, frequently accessed references)
-- Personal alcoves (user profiles) within the shared space hello?
+- Personal alcoves (user profiles) within the shared space
 - Shared web garden of [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 - ["Home-cooked" web apps](https://www.robinsloan.com/notes/home-cooked-app/) as shared tools for the members
