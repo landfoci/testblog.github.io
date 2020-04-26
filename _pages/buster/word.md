@@ -52,9 +52,10 @@ Beyond that... bring in the amateurs, I say!
 ## Principles
 1. **Savor Mistakes.** Let mistakes linger instead of being immediately erased. Let them be a teacher.
 2. **Indulge Distractions.** Always make space and time for quiet, undirected interests to blossom. Instead of stomping down the trail of progress, keep an ear open for that unexpected bird call, and then stop and shhh to see if you can hear it again. Consider a new trail that gets you closer to the unexpected bird.
-3. **Embody Foolishness.** Embark on foolish journeys. The professionals and experts have clouded our eyes about which journeys are worthwhile and which aren't, and there are probably good things hidden on trails that have been marked as too foolish to walk down. 
+3. **Consider Foolish Leads.** Embark on foolish journeys. The professionals and experts have clouded our eyes about which journeys are worthwhile and which aren't, and there are probably good things hidden on trails that have been marked as too foolish to walk down. 
 
 ## Patterns
+* Do nothing frequently.
 * Doodle without a goal. 
 * Plink on the piano. 
 * Whittle on many small projects.
@@ -72,6 +73,7 @@ Beyond that... bring in the amateurs, I say!
 * 750 Words
 * Poetry
 * Gardens
+* Cooking
 
 ## Associations
 * **The Pages and Princesses of Tarot** The youngest of the court cards, the Page (or Princess, depending on the deck) of Cups, Wands, Swords, and Coins are typically known as the enthusiastic novices of their suit. They lack the caution and the mastery that the other court carts grow to represent. 

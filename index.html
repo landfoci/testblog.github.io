@@ -19,7 +19,7 @@ max_width: true
 
 	<div class="row inline-block">
 		{% if one_words != empty %}
-			<div class="col-12 col-sm-4 col-md-2"> 
+			<div class="col-12 col-sm-4 col-md-3"> 
 				<strong class="mt-1">One Word</strong>
 				{% for page in one_words %}
 					{% assign author = site.data.people[page.author] %}
@@ -31,7 +31,7 @@ max_width: true
 		{% endif %}
 
 		{% if codexes != empty %}
-			<div class="col-12 col-sm-4 col-md-2">
+			<div class="col-12 col-sm-4 col-md-3">
 				<strong class="mt-1">Codex Vitae</strong>
 				{% for page in codexes %}
 					{% assign author = site.data.people[page.author] %}
@@ -43,7 +43,7 @@ max_width: true
 		{% endif %}
 
 		{% if lives_in_weeks != empty %}
-			<div class="col-12 col-sm-4 col-md-2">
+			<div class="col-12 col-sm-4 col-md-3">
 				<strong class="mt-1">Life in Weeks</strong>
 				{% for page in lives_in_weeks %}
 					{% assign author = site.data.people[page.author] %}

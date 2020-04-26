@@ -1,4 +1,7 @@
-# Changes that have occurred
+---
+title: Changelog
+layout: page
+---
 
 ### April 26th, 2020
 

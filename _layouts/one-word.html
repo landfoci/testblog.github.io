@@ -15,10 +15,10 @@ max_width: true
 
   {% assign related_pages = site.pages | where: "layout", "one-word" %}
 
-  <div class="row inline-block">
+  <div class="row">
     {% if related_pages != empty %}
-      <div class="col-12 col-sm-4 col-md-2"> 
-        <strong class="mt-1">Other Words</strong>
+      <div class="col-12"> 
+        <h2 class="mt-1">Other Words</h2>
         {% for p in related_pages %}
           <ul>
             {% if page.author != p.author %}

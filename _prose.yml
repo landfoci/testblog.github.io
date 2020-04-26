@@ -70,3 +70,19 @@ prose:
           label: "Comments link (full URL)"
           element: "text"
           value: ""
+    _pages: 
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: ""
+      - name: "author"
+        field:
+          label: "Author"
+          element: "text"
+          value: CURRENT_USER
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
