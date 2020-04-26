@@ -15,4 +15,6 @@ layout: page
 
 - If a post is a reply to another, or if a post has replies, there will be links to the related posts. It looks ugly right now. Who wants to make it look nicer?
 
+- Created this changelog.
+
 
