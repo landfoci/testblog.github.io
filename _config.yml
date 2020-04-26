@@ -5,7 +5,7 @@ baseurl: '/rickshaw'
 title: 'Rickshaw'
 description: 'A group website thing.'
 permalink: 'pretty'
-highlighter: 'none'
+highlighter: 'rouge'
 exclude:
   - '.jekyll-cache'
   - 'Gemfile'
