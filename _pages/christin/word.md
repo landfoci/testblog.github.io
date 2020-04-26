@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: one-word
 author: christin
 published: true
 title: Christin's Word
