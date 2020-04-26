@@ -31,6 +31,8 @@ prose:
       user: kev_mcg
     - login: codestin
       user: christin
+    - login: spratlas
+      user: splangster
   metadata:
     _posts:
       - name: "title"
