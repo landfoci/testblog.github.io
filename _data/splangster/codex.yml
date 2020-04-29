@@ -24,7 +24,7 @@ example-category-two:
   name: Another category
   beliefs: 
   
-  	- desc: "Another belief in another category, without the confidence or last updated date."
+    - desc: "Another belief in another category, without the confidence or last updated date."
     
 example-category-three:
   name: "Example category three"
