@@ -1,6 +1,6 @@
 '2020-04-26': 
   - name: "Created this page"
     desc: "This is the format of the file, check out the file `/_data/buster/life-in-weeks.yml` for more examples."
-    category: "meta"
+    category: meta
     tags: 
-      - 'category-of-your-choosing'
+      - category-of-your-choosing
