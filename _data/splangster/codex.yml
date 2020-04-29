@@ -1,0 +1,16 @@
+### CONTENTS
+
+categories:
+  - example-category
+
+### BELIEFS BY CATEGORY
+
+# RULES TO LIVE BY
+
+example-category: 
+  name: Example category
+  beliefs: 
+
+    - desc: "The belief you have goes here. It lives within the 'Example category' category."
+      confidence: high
+      last_updated: 2020-04-29
