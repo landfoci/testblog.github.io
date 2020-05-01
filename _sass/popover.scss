@@ -1,0 +1,30 @@
+.popover {
+  border:1px solid #000;
+  .arrow {
+  	display: none;
+  }
+	.popover-header {
+		border-radius: 10px 10px 0 0;
+	}
+	.popover-body {
+		border-radius: 10px;
+	}	
+}
+.popover.bottom .arrow:after {
+  border-bottom-color: white;
+}
+.popover.bottom{
+  border:1px solid red;
+}
+.popover.top {
+  border: 1px solid green;
+}
+.popover.right {
+  border: 1px solid blue;
+}
+.popover.left {
+  //border: 1px solid cyan;
+}
+.popover.bottom .arrow {
+	border-bottom-color: red;
+}

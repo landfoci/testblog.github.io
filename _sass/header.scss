@@ -1,0 +1,40 @@
+header {
+	flex-basis:10rem;
+	flex-grow:1;
+	position:relative;
+}
+header a {
+	text-decoration: none;
+}
+header li {
+	margin-bottom: .2rem;
+	text-align: right;
+	margin-right: 2rem;
+}
+header a.active {
+	font-weight: bold;
+}
+header,
+section {
+	padding: 0 1rem;
+}
+nav ul {
+  border-right: 1px solid #edf2f7;
+}
+
+@media screen and (max-width: 45rem ) {
+	header li {
+		display: inline;
+		margin-right: 1rem;
+	}
+	.logo {
+		padding-bottom: 1rem;
+	}
+	header ul {
+		border-bottom: 1px solid #edf2f7;
+		padding-bottom: 2rem;	
+	}
+	nav ul {
+		border-right: 0px;
+	}
+}
