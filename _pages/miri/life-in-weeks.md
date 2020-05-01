@@ -4,7 +4,7 @@ layout: life-in-weeks
 author: miri
 published: true
 datafile: life-in-weeks
-start_date: {}
+start_date: 1970-01-01
 end_year: 2029
 ---
 
