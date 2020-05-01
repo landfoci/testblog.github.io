@@ -5,7 +5,7 @@ layout: page
 
 ### April 30th, 2020
 
-Kevin:
+@kev_mcg:
 
 - Made minor maintenance changes to fix a failing site build and speed up the build time from ~50 seconds to ~6 seconds.
 
