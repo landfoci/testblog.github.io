@@ -6,8 +6,8 @@ published: true
 
 # For the life in weeks chart
 datafile:	 						'life-in-weeks'
-start_date: 					1976-05-28
-end_year: 						2076
+start_date: 					1973-11-15
+end_year: 						2073
 ---
 
 My life in weeks.
