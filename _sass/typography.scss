@@ -2,7 +2,7 @@ body {
 	font-family: "Source Sans Pro", system-ui, sans-serif;
 	-webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-	line-height:1.6;
+	line-height: 1.6;
 	font-size: 1.1rem;
 	color: rgb(22, 23, 26);
 }
@@ -14,45 +14,54 @@ a {
   text-decoration-skip-ink: auto;
   text-decoration: underline;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+h1 {
+  margin-top: 0px;
+  font-size: 1.5rem;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+ul {
+  padding-left: 20px;
+}
+ol {
+  padding-left: 30px;
+}
+ul li,
+ol li {
+  margin-top: 0;
+  margin-bottom: .75rem;
+}
+ul li {
+	list-style: circle;
+}
 hr {
-	background: #000;
-  height: 1px;
-  border: 0;
+	max-width: 70%;
+	margin: 3rem auto;
+  border-bottom: 1px solid #777;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
 }
 blockquote {
 	font-style: italic;
   border-left: 5px solid #f7f5a0;
   padding-left: 1rem;
 }
-h1,h2,h3,h4,h5 {
-	line-height: 1.7rem;
-	margin: 0;
-	padding: 0;
-	font-weight: 600;
-	font-size: 1.2rem;
-}
-ul, ol {
-	margin-bottom: 1rem;
-	padding-left: 20px;
-}
-ul li {
-	list-style: circle;
-}
-.post p {
-	margin: .5rem 0;
-}
-.post h1, .post h2, .post h3, .post h4 {
-	margin: 0;
-	padding: 0;
-}
-.post h2:first-child, .project h2:first-child, .photo h2:first-child {
-	margin-top: 0;
-}
 .meta {
 	margin: 0.5rem 0 1rem 0;
 	font-size: smaller;
-	font-color: #666;
-}
-section h1:first-child {
-	margin-top: 0;
+	color: #666;
 }
