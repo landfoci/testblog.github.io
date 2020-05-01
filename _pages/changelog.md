@@ -3,6 +3,16 @@ title: Changelog
 layout: page
 ---
 
+### April 30th, 2020
+
+Kevin:
+
+- Made minor maintenance changes to fix a failing site build and speed up the build time from ~50 seconds to ~6 seconds.
+
+- Modularized the stylesheet into includes
+
+- Made slight typography spacing and heading hierarchy adjustments for reading flow
+
 ### April 26th, 2020
 
 - I installed `jekyll-mentions` that lets you mention other people in the Rickshaw and it'll auto-linkify them. All you have to do is type their username (which is the same as what appears in the URL on their profile page). Mine is @buster, for example.
