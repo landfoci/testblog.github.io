@@ -209,6 +209,11 @@
   - name: "😷 Beginning of the New World (Coronavirus Era)"
     category: "world"
 
+'2020-05-02':
+  - name: "📓 Write my first Codex Vitae"
+    link: https://busterbenson.github.io/rickshaw/christin/codex
+    category: "self"
+
 '2074-06-01':
   - name: "🌲 My life expectancy expiration date."
     category: "self"
