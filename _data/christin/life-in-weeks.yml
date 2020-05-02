@@ -81,18 +81,26 @@
     category: "work"
     tags: ["agency"]
 
-'2016-08-01':
-  - name: "💊 Start working at Genentech."
-    category: "work"
-    tags: ["pharma"]
+'2016-06-01':
+  - name: "🏋️ Join Flagship CrossFit."
+    category: "fitness"
     
 '2016-11-08':
   - name: "🇺🇸 Trump wins the election."
     category: "world"
     tags: ["politics"]
+
+'2017-06-01':
+  - name: "🏋️ Join Fullgrip Barbell fam!"
+    category: "fitness"
+   
+'2017-07-01':
+  - name: "💊 Start working at Genentech."
+    category: "work"
+    tags: ["pharma"]
     
 '2018-10-01':
-  - name: "💻 Work for myself."
+  - name: "💻 Start to work for myself."
     category: "work"
     tags: ["freelance"]
     
