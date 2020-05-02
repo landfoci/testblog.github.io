@@ -1,3 +1,13 @@
+---
+title: 		 Codex Vitae
+layout: 	 codex
+author: 	 Christin
+published: true
+
+# Data file for this codex kept in `_data/[username]/[datafile].yml`
+datafile:	 'codex'
+---
+
 # Codex Vitae for Christin
 Most of what I'll share below come from a western interpretation of Buddhist teachings, some with a twist! I'll add my interpretation too, so please do your own research if you are interested to learn more about the historical facts, as far as we know.
 
