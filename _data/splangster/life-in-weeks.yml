@@ -18,7 +18,7 @@
       - 'JM'  
  
  '1992-05-15':
-  - name: "Graduated from Idabel High School."
+  - name: "Graduated from Idabel (OK) High School."
     category: "education"
     tags: 
       - 'ok'
@@ -40,24 +40,54 @@
     category: "work"
     tags: 
       - 'maine'
-      
+
 '1999-04-19':
   - name: "Hit head-on in car accident. Brain injury."
     category: "event"
     tags: 
       - 'brain'
       
+'1999-12-31':
+  - name: "Millenium New Year in NZ."
+    category: "event"
+    tags: 
+      - 'nz'
+
+'2000-06-15':
+  - name: "Moved to Philadelphia."
+    category: "work"
+    tags: 
+      - 'philly'
+
 '2010-04-29':
   - name: "My dad died."
     category: "family"
     tags: 
       - 'dad'
 
+'2010-04-29':
+  - name: "Bought house on Willomore."
+    category: "home"
+    tags: 
+      - 'nc'
+
+'2010-08-01':
+  - name: "Moved to Greensboro, NC."
+    category: "home"
+    tags: 
+      - 'nc'
+
 '2015-06-21':
   - name: "Bought house on Lexington on J's birthday."
     category: "home"
     tags: 
       - 'Lex'
+
+'2015-08-15':
+  - name: "Mom moved to NC."
+    category: "family"
+    tags: 
+      - 'mom'
 
 '2017-05-15':
   - name: "Graduated from UNC Greensboro (ph.d.)"
@@ -70,3 +100,9 @@
     category: "family"
     tags: 
       - 'J'
+
+'2053-08-01':
+  - name: "life expectancy X."
+    category: "life"
+    tags: 
+      - 'death'
