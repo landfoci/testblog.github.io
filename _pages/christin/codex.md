@@ -1,6 +1,6 @@
 ---
 title: 		 Codex Vitae for Christin
-layout: 	 codex
+layout: 	 page
 author: 	 Christin
 published: true
 ---
