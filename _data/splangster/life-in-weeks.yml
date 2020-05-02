@@ -16,4 +16,57 @@
     category: "family"
     tags: 
       - 'JM'  
-       
+ 
+ '1992-05-15':
+  - name: "Graduated from Idabel High School."
+    category: "education"
+    tags: 
+      - 'ok'
+      
+'1996-05-15':
+  - name: "Graduated from Oklahoma State University (b.s.)"
+    category: "education"
+    tags: 
+      - 'ok'
+      
+'1998-05-15':
+  - name: "Graduated from UNC Chapel Hill (m.s.)"
+    category: "education"
+    tags: 
+      - 'nc'
+
+'1998-06-01':
+  - name: "Moved to Maine. Started work at brain injury rehab center."
+    category: "work"
+    tags: 
+      - 'maine'
+      
+'1999-04-19':
+  - name: "Hit head-on in car accident. Brain injury."
+    category: "event"
+    tags: 
+      - 'brain'
+      
+'2010-04-29':
+  - name: "My dad died."
+    category: "family"
+    tags: 
+      - 'dad'
+
+'2015-06-21':
+  - name: "Bought house on Lexington on J's birthday."
+    category: "home"
+    tags: 
+      - 'Lex'
+
+'2017-05-15':
+  - name: "Graduated from UNC Greensboro (ph.d.)"
+    category: "education"
+    tags: 
+      - 'nc'
+
+'2018-05-25':
+  - name: "Married J on my dad's birthday."
+    category: "family"
+    tags: 
+      - 'J'
