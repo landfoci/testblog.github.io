@@ -186,10 +186,14 @@
   - name: "🧘🏻 Year of Contemplation and Mastery."
     category: "self"
 
-'2019-05-01':
+'2019-06-12':
   - name: "🐲 Join Rickshaw. I find my people."
     category: "self"
     tags: ["rickshaw"]
+ 
+'2019-07-28':
+  - name: "🏃 Run my first half-marathon."
+    category: "self"
 
 '2020-01-01':
   - name: "🔥 Year of the Hearth. Start writing online again."
