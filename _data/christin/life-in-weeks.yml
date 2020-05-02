@@ -2,6 +2,11 @@
   - name: "👶🏻 I enter the world. 1986 is the Year of the Tiger 🐯, That's What Friends Are For is at the top of the Billboard charts 🎼, and 🇺🇸 Ronald Reagan is the US president. I'm a Gemini."
     category: "self"
 
+'1988-11-01':
+  - name: "🇺🇸 George H. W. Bush wins the election."
+    category: "world"
+    tags: ["politics"]
+    
 '1992-11-01':
   - name: "🇺🇸 Bill Clinton wins the election."
     category: "world"
