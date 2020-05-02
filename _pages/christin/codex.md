@@ -1,7 +1,8 @@
 ---
-title: 		 Codex Vitae for Christin
+title: 		 Codex Vitae
 layout: 	 page
-author: 	 Christin
+author: 	 christin
+codex: 		 true
 published: true
 ---
 
@@ -10,7 +11,8 @@ Most of what I'll share below come from a western interpretation of Buddhist tea
 
 ## What's with the lists?
 Buddhists love lists. It's true!* I think it's because Buddhism came from an oral tradition, with much of the suttas (scriptures) codified many years after the OG Buddha had passed away. So lists are just easier to remember. But one thing to keep in mind, as I had read in Gil Fronsdal's new-ish book "[The Buddha without Buddhism](https://www.youtube.com/watch?v=IMzVDzJdglE)"--if you look at the oldest suttas, the Buddha didn't even come up with these lists yet! A lot of the OG suttas were focused on the ideal of a 'sage,' and how they understand the ins-and-outs of clinging to experiences and letting go. But 'letting go' is not an active process ('let go harder!' is almost paradoxical.) But if a 'sage' sees clearly, 'letting go' will take care of itself. Trippy, eh? 
-*Again, don't just take my word for it, do your own research!
+
+*Again, don't just take my word for it, do your own research!*
 
 Still, the instructions were kind of vague. So along came lists of practical advice on what’s going on and what to do...
 

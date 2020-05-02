@@ -13,7 +13,7 @@ max_width: true
 		{% endfor %}
 	</div>
 	{% assign pages = site.pages | sort: "date" %}
-	{% assign codexes = pages | where: "layout", "codex" %}
+	{% assign codexes = pages | where: "codex", true %}
 	{% assign lives_in_weeks = pages | where: "layout", "life-in-weeks" %}
 	{% assign one_words = pages | where: "layout", "one-word" %}
 
