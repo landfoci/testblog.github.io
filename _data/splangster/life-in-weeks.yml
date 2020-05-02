@@ -1,9 +1,9 @@
 '2020-04-26': 
   - name: "Created this page"
-    desc: "This is the format of the file, check out the file `/_data/buster/life-in-weeks.yml` for more examples."
+    desc: "Rickshaw gang project."
     category: "meta"
     tags:
-      - 'category-of-your-choosing'
+      - 'Rickshaw'
 
 '1973-11-15':
   - name: "I was born on November 15, 1973, in Dorchester, Mass."
