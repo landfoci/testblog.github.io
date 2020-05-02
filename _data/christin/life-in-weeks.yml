@@ -1,9 +1,7 @@
 '1986-06-01': 
   - name: "I enter the world."
-    desc: "Hello World!"
-    category: "self"
-    tags: 
-      - 'me'
+    category: "birthday"
+    tags: ["birthday"]
     desc: "1986 was the Year of the Tiger, That's What Friends Are For" was top of the Billboard charts, and Ronald Reagan was president. I'm a gemini."
 
 '2000-01-01':
