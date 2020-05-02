@@ -8,6 +8,11 @@
     category: "world"
     tags: ["technology"]
 
+'2001-09-11':
+  - name: "September 11th happens."
+    category: "world"
+    tags: ["politics"]
+    
 '2002-05-01':
   - name: "I graduate from Garden International School."
     category: "school"
@@ -15,11 +20,6 @@
 '2002-08-01':
   - name: "I went to Taylor's College."
     category: "school"
-    
-'2001-09-11':
-  - name: "September 11th happens."
-    category: "world"
-    tags: ["politics"]
     
 '2003-03-20':
   - name: "The Iraq War starts."
