@@ -1,11 +1,8 @@
 ---
-title: 		 Codex Vitae
+title: 		 Codex Vitae for Christin
 layout: 	 codex
 author: 	 Christin
 published: true
-
-# Data file for this codex kept in `_data/[username]/[datafile].yml`
-datafile:	 'codex'
 ---
 
 # Codex Vitae for Christin
