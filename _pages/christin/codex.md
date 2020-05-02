@@ -24,7 +24,7 @@ You might have heard of some variant of below (taken from [Wikipedia](https://en
 4. *Magga* (path, Noble Eightfold Path) is the means to end this dukkha.
 
 I left in the scary Sanskrit/Pali words because it points to the issues and misunderstandings that arise from translating 4 noble truths into English. 
-- One common misunderstanding of the noble truths is that they are nihilistic—isn't the first bullet literally, "life is suffering?" That doesn't sound very uplifting. But one explanation is that the OG Buddha is more like a doctor—this is his way of going through diagnosis, understanding the cause of the illness, pointing out a potential mechanism for stopping it, and the treatment options.
+- One common misunderstanding of the noble truths is that they are nihilistic—isn't the first bullet literally, "life is suffering?" That doesn't sound very uplifting. But one explanation is that the OG Buddha is more like a doctor—this is his way of going through diagnosis, understanding the cause of the illness, pointing out potential mechanisms at play, and the treatment options.
 - Another common misunderstanding is the translation of the word *dukkha,* and Wikipedia did an excellent job there listing a few possibilities instead of doing a singular translation. In the older translations, "suffering" is often used to translate the word, but nowadays modern translators lean towards "dissatisfaction." Which I think is more poignant—it's this existential angst that persists no matter how "good" life is.
 
 In addition, I really love Ajahn Brahm's *new* take on the 4 noble truths where he re-arranged their order:
