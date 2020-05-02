@@ -63,9 +63,13 @@
     tags: ["politics"]
     
 '2011-08-01':
+  - name: "🚚 I move to San Francisco because our lab moved to the University of California, San Francisco."
+    category: "school"
+    
+'2011-08-01':
   - name: "🎓 Graduate with PhD in Neuroscience."
     category: "school"
-
+    
 '2011-09-01':
   - name: "🧬 Start postdoc on human genetics, circadian rhythms and sleep."
     category: "work"
