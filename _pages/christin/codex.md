@@ -54,7 +54,7 @@ I also realize that this codex is getting wordy, so instead of telling you the o
 
 If you are interested in contemplating the 8 fold path, the IMC course is archived for free [online](https://www.insightmeditationcenter.org/2019/08/the-eightfold-path-program-2019-2020/) yearly.
 
-In the future, I'll write about the 5 precepts, 5 hindrances, 7 factors of enlightenment, 4 requisites, 3 poisons, etc... I am still learning more about them myself, and hope to share more interpretations after more practice.
+In the future, I'll write about the 5 precepts, 5 hindrances, 7 factors of enlightenment, 4 requisites, 3 poisons, etc... I am still learning more about them myself, and hope to share interpretations after more contemplation and practice.
 
 
 
