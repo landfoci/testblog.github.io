@@ -76,6 +76,10 @@
     category: "world"
     tags: ["technology"]
     
+'2008-02-28':
+  - name: "🏃 Run my first 5K (LA Firecracker run)."
+    category: "fitness" 
+    
 '2008-09-15':
   - name: "📉 Financial crisis caused by subprime meltdown."
     category: "world"
@@ -85,6 +89,10 @@
   - name: "🇺🇸 Obama wins the election."
     category: "world"
     tags: ["politics"]
+    
+'2009-10-24':
+  - name: "🏃 Run my first 10K (Nike Human Race)."
+    category: "fitness" 
 
 '2010-02-08':
   - name: "🔬 Co-author review paper on oligodendrocyte precursor cells."
@@ -201,7 +209,7 @@
     tags: ["rickshaw"]
  
 '2019-07-28':
-  - name: "🏃 Run my first half-marathon."
+  - name: "🏃 Run my first half-marathon (SF)."
     category: "self"
 
 '2020-01-01':
