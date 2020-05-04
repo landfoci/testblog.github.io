@@ -3,28 +3,28 @@ year:
   leap_week: false
 
 months:
-  - Red
-  - Orange
-  - Yellow
-  - Chartreuse
-  - Green
-  - Clover
-  - Cyan
-  - Azure
-  - Blue
-  - Lavender
-  - Magenta
-  - Beet
-  - Iridescent
+  - Red-month
+  - Orange-month
+  - Yellow-month
+  - Chartreuse-month
+  - Green-month
+  - Clover-month
+  - Cyan-month
+  - Azure-month
+  - Blue-month
+  - Lavender-month
+  - Magenta-month
+  - Beet-month
+  - Iridescent-month
 
 day_of_week:
-  - Aday
-  - Bday
-  - Cday
-  - Dday
-  - Eday
-  - Fday
-  - Gday
+  - A-day
+  - B-day
+  - C-day
+  - D-day
+  - E-day
+  - F-day
+  - G-day
 
 ordinal: [0th, 1st, 2nd, 3rd, 4th, 5th, 6th, 7th,
           8th, 9th, 10th, 11th, 12th, 13th, 14th, 
