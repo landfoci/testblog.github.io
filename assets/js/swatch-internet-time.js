@@ -41,5 +41,6 @@ function GetInternetTime() {
   var beats = Math.abs(timeInSeconds / secondsInABeat).toFixed(2);
 
   // update page
-  $('#swatch_time').html("The time is @"+beats+" <a href='http://www.swatchclock.com/about.php' target='_new'>beats</a>.");
+  // http://www.swatchclock.com/about.php
+  $('#swatch_time').html("The time is @"+beats+" beats.");
 }

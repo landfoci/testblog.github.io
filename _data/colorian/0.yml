@@ -1,35 +1,78 @@
 year:
   gregorian_start: '2020-01-06'
-  leap_week: false
+  spectrum_week: false
 
 months:
-  - Red-month
-  - Orange-month
-  - Yellow-month
-  - Chartreuse-month
-  - Green-month
-  - Clover-month
-  - Cyan-month
-  - Azure-month
-  - Blue-month
-  - Lavender-month
-  - Magenta-month
-  - Beet-month
-  - Iridescent-month
+  - name: Red
+    number: 1
+
+  - name: Orange
+    number: 2
+
+  - name: Yellow
+    number: 3
+
+  - name: Chartreuse
+    number: 4
+
+  - name: Green
+    number: 5
+
+  - name: Clover
+    number: 6
+
+  - name: Cyan
+    number: 7
+
+  - name: Azure
+    number: 8
+
+  - name: Blue
+    number: 9
+
+  - name: Lavender
+    number: 10
+
+  - name: Magenta
+    number: 11
+
+  - name: Beet
+    number: 12
+
+  - name: Iridescent
+    number: 13
+
+  - name: Spectrum
+    number: 0
 
 day_of_week:
-  - A-day
-  - B-day
-  - C-day
-  - D-day
-  - E-day
-  - F-day
-  - G-day
+  - name: A-day
+    gregorian: Monday
 
-ordinal: [0th, 1st, 2nd, 3rd, 4th, 5th, 6th, 7th,
-          8th, 9th, 10th, 11th, 12th, 13th, 14th, 
-          15th, 16th, 17th, 18th, 19th, 20th, 21st, 
-          22nd, 23rd, 24th, 25th, 26th, 27th, 28th]
+  - name: B-day
+    gregorian: Tuesday
+
+  - name: C-day
+    gregorian: Wednesday
+
+  - name: D-day
+    gregorian: Thursday
+
+  - name: E-day
+    gregorian: Friday
+
+  - name: F-day
+    gregorian: Saturday
+
+  - name: G-day
+    gregorian: Sunday
+
+day_abbr: [1A, 1B, 1C, 1D, 1E, 1F, 1G,
+           2A, 2B, 2C, 2D, 2E, 2F, 2G, 
+           3A, 3B, 3C, 3D, 3E, 3F, 3G, 
+           4A, 4B, 4C, 4D, 4E, 4F, 4G]
+
+week_ordinal: [1st, 2nd, 3rd, 4th]
 
 gregorian_days:
   '2020-01-01':
@@ -96,6 +139,7 @@ gregorian_days:
     month: 1
     week: 1
     day: 5
+    moon: full
 
   '2020-01-11': 
     year: 0
@@ -184,6 +228,7 @@ gregorian_days:
     month: 1
     week: 3
     day: 5
+    moon: new
 
   '2020-01-25': 
     year: 0
@@ -279,6 +324,7 @@ gregorian_days:
     month: 2
     week: 1
     day: 6
+    moon: full
 
   '2020-02-09': 
     year: 0
@@ -373,6 +419,7 @@ gregorian_days:
     month: 2
     week: 3
     day: 7
+    moon: new
 
   # Week 4: Mon, Feb 24th
 
@@ -470,6 +517,7 @@ gregorian_days:
     month: 3
     week: 2
     day: 1
+    moon: full
 
   '2020-03-10': 
     year: 0
@@ -538,6 +586,7 @@ gregorian_days:
     month: 3
     week: 3
     day: 5
+    equinox: spring
 
   '2020-03-21': 
     year: 0
@@ -564,6 +613,7 @@ gregorian_days:
     month: 3
     week: 4
     day: 2
+    moon: new
 
   '2020-03-25': 
     year: 0
@@ -653,6 +703,7 @@ gregorian_days:
     month: 4
     week: 2
     day: 2
+    moon: full
 
   '2020-04-08': 
     year: 0
@@ -747,6 +798,7 @@ gregorian_days:
     month: 4
     week: 4
     day: 3
+    moon: new
 
   '2020-04-23': 
     year: 0
@@ -842,6 +894,7 @@ gregorian_days:
     month: 5
     week: 2
     day: 4
+    moon: full
 
   '2020-05-08': 
     year: 0
@@ -936,6 +989,7 @@ gregorian_days:
     month: 5
     week: 4
     day: 5
+    moon: new
 
   '2020-05-23': 
     year: 0
@@ -1025,6 +1079,7 @@ gregorian_days:
     month: 6
     week: 2
     day: 5
+    moon: full
 
   '2020-06-06': 
     year: 0
@@ -1119,6 +1174,8 @@ gregorian_days:
     month: 6
     week: 4
     day: 6
+    moon: new
+    solstice: summer
 
   '2020-06-21': 
     year: 0
@@ -1208,6 +1265,7 @@ gregorian_days:
     month: 7
     week: 2
     day: 6
+    moon: full
 
   '2020-07-05': 
     year: 0
@@ -1311,6 +1369,7 @@ gregorian_days:
     month: 8
     week: 1
     day: 1
+    moon: new
 
   '2020-07-21': 
     year: 0
@@ -1399,6 +1458,7 @@ gregorian_days:
     month: 8
     week: 3
     day: 1
+    moon: full
 
   '2020-08-04': 
     year: 0
@@ -1494,6 +1554,7 @@ gregorian_days:
     month: 9
     week: 1
     day: 2
+    moon: new
 
   '2020-08-19': 
     year: 0
@@ -1582,6 +1643,7 @@ gregorian_days:
     month: 9
     week: 3
     day: 2
+    moon: full
 
   '2020-09-02': 
     year: 0
@@ -1683,6 +1745,7 @@ gregorian_days:
     month: 10
     week: 1
     day: 4
+    moon: new
 
   '2020-09-18': 
     year: 0
@@ -1715,6 +1778,7 @@ gregorian_days:
     month: 10
     week: 2
     day: 2
+    equinox: fall
 
   '2020-09-23': 
     year: 0
@@ -1771,6 +1835,7 @@ gregorian_days:
     month: 10
     week: 3
     day: 4
+    moon: full
 
   '2020-10-02': 
     year: 0
@@ -1866,6 +1931,7 @@ gregorian_days:
     month: 11
     week: 1
     day: 5
+    moon: new
 
   '2020-10-17': 
     year: 0
@@ -1960,6 +2026,7 @@ gregorian_days:
     month: 11
     week: 3
     day: 6
+    moon: full
 
   '2020-11-01': 
     year: 0
@@ -2049,6 +2116,7 @@ gregorian_days:
     month: 12
     week: 1
     day: 6
+    moon: new
 
   '2020-11-15': 
     year: 0
@@ -2151,6 +2219,7 @@ gregorian_days:
     month: 12
     week: 4
     day: 1
+    moon: full
 
   '2020-12-01': 
     year: 0
@@ -2240,6 +2309,7 @@ gregorian_days:
     month: 13
     week: 2
     day: 1
+    moon: new
 
   '2020-12-15': 
     year: 0
@@ -2284,6 +2354,7 @@ gregorian_days:
     month: 13
     week: 3
     day: 1
+    solstice: winter
 
   '2020-12-22': 
     year: 0
@@ -2334,6 +2405,7 @@ gregorian_days:
     month: 13
     week: 4
     day: 2
+    moon: full
 
   '2020-12-30': 
     year: 0

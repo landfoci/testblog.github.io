@@ -1,0 +1,75 @@
+---
+layout: fullscreen
+max_width: true
+---
+{% assign calendar = site.data.colorian['0'] %}
+
+{% for month in calendar.months %}
+	{% if month.number != 0 %}
+		<div class="mb-4">
+			<h2>{{ month.name }}</h2>
+			{% for day in (1..28) %}
+				{% assign day_of_week = day  | modulo: 7 %}
+
+				{% assign day_of_month = day | minus: 1 %}
+
+				{% assign days_since_start = month.number 
+																		 | minus: 1 
+																		 | times: 28 
+																		 | plus: day_of_month 
+																		 | times: 86400 %}
+				{% assign gregorian_date = calendar.year.gregorian_start 
+																		 | date: "%s" 
+																		 | plus: days_since_start 
+																		 | date: "%F" %}
+				{% assign todays_date = site.time | date: "%F" %}
+
+				{% assign colorian_date = calendar.gregorian_days[gregorian_date] %}
+				
+				{% if day_of_week == 1 %}
+					<div class="row">
+				{% endif %}
+				
+				<div class="col mb-1">
+					{% if gregorian_date == todays_date %}
+						{% assign day_class = 'today' %}
+						{% assign day_cell = '#ffc' %}
+					{% elsif gregorian_date < todays_date %}
+						{% assign day_class = 'past' %}
+						{% assign day_cell = '#cfc' %}
+					{% else %}
+						{% assign day_class = 'future' %}
+						{% assign day_cell = '#eee' %}
+					{% endif %}
+					<div class="p-2" style="background-color: {{ day_cell }};">
+						<small>{{calendar.day_abbr[day_of_month]}}</small><br />
+						{% if calendar.gregorian_days[gregorian_date].moon == 'full' %}
+							<span title="Full Moon">🌕</span>
+						{% elsif calendar.gregorian_days[gregorian_date].moon == 'new' %}
+							<span title="New Moon">🌑</span>
+						{% endif %}
+
+						{% if calendar.gregorian_days[gregorian_date].equinox %}
+							{% if calendar.gregorian_days[gregorian_date].equinox == 'spring' %}
+								<span title="Spring Equinox">🌱</span>
+							{% else %}
+								<span title="Fall Equinox">🍁</span>
+							{% endif %}
+						{% elsif calendar.gregorian_days[gregorian_date].solstice %}
+						  {% if calendar.gregorian_days[gregorian_date].solstice == 'summer' %}
+						  	<span title="Summer Solstice">🌞</span>
+						  {% else %}
+						  	<span title="Winter Solstice">❄️</span>
+						  {% endif %}
+						{% endif %}
+						&nbsp;
+						</div>
+				</div>
+				
+				{% if day_of_week == 0 %}
+					</div>
+				{% endif %}
+			{% endfor %}
+		</div>
+	{% endif %}
+{% endfor %}
