@@ -1,0 +1,39 @@
+$(document).ready(function() {
+  console.log("ready!");
+  if ($( "#unix_time" ).length) {
+		$('#unix_time').html(Math.round(new Date().getTime()/1000));
+		console.log($('#unix_time').text());
+		// display at page load
+		GetInternetTime();
+
+		// calculate every second
+		setInterval(GetInternetTime, 1000);
+	}
+});
+
+// calculate the time of the future
+function GetInternetTime() {
+    // increment unix time
+    $('#unix_time').html(parseInt($('#unix_time').text())+1);
+
+    // get date in UTC/GMT
+    var date = new Date();
+    var hours = date.getUTCHours();
+    var minutes = date.getUTCMinutes();
+    var seconds = date.getUTCSeconds();
+
+    // add hour to get time in Switzerland
+    hours = (hours == 23) ? 0 : hours + 1;
+
+    // time in seconds
+    var timeInSeconds = (((hours * 60) + minutes) * 60) + seconds;
+
+    // there are 86.4 seconds in a beat
+    var secondsInABeat = 86.4;
+
+    // calculate beats to two decimal places
+    var beats = Math.abs(timeInSeconds / secondsInABeat).toFixed(2);
+
+    // update page
+    $('#swatch_time').html("The time here is @"+beats+" <a href='http://www.swatchclock.com/about.php' target='_new'>beats</a>.");
+}

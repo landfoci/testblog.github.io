@@ -12,6 +12,9 @@ max_width: true
 			{{ person.name }}</a>{% if forloop.last %}. {% else %}, {% endif %}
 		{% endfor %}
 	</div>
+	<div id="swatch_time" class="mb-4"></div>
+	<div id="unix_time" class="d-none"></div>
+
 	{% assign pages = site.pages | sort: "date" %}
 	{% assign codexes = pages | where: "codex", true %}
 	{% assign lives_in_weeks = pages | where: "layout", "life-in-weeks" %}
@@ -73,4 +76,3 @@ max_width: true
 		</div>
 	</div>
 </section>
-
