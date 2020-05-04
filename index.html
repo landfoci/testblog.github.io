@@ -4,7 +4,7 @@ layout: fullscreen
 max_width: true
 ---
 
-{% assign calendar = site.data.colorian['2020'] %}
+{% assign calendar = site.data.colorian['0'] %}
 
 <section class="posts">
 	<div class="mb-4"><strong>🐲 In This Rickshaw:</strong>
@@ -15,7 +15,7 @@ max_width: true
 	</div>
 	<div class="mb-4">
 		<span id="colorian_date" class="mb-4">
-			{% for d in calendar.days %}
+			{% for d in calendar.gregorian_days %}
 				<span id="date_{{ d[0] }}" class="d-none colorian_date_today" class="mt-2">
 					{% assign month_number = d[1]['month'] | to_integer | minus: 1 %}
 					{% assign day_of_week_number = d[1]['day'] | to_integer | minus: 1 %}
