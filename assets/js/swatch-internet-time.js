@@ -10,6 +10,7 @@ $(document).ready(function() {
     // display the Colorian date
     if ($( "#colorian_date" ).length) {
       var date = new Date();
+      date.setTime(date.getTime() + (1*60*60*1000));
       show_date = date.toISOString().slice(0,10);
       $( "#date_"+show_date ).removeClass("d-none");
     }
