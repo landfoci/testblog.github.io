@@ -199,10 +199,18 @@
     category: "work"
     tags: ["freelance"]
  
+'2018-10-03':
+  - name: "💻 I start the AI Programming in Python Nanodegree program at Udacity."
+    category: "school"
+ 
 '2019-01-01':
   - name: "🧘🏻 Year of Contemplation and Mastery."
     category: "self"
 
+'2019-01-17':
+  - name: "🎓 I complete the AI Programming in Python Nanodegree program at Udacity."
+    category: "school"
+    
 '2019-06-12':
   - name: "🐲 Join Rickshaw. I find my people."
     category: "self"
