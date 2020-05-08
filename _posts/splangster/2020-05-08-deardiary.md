@@ -1,7 +1,7 @@
 ---
 author: splangster
 layout: post
-published: false
+published: true
 title: deardiary
 ---
 ## first covid, now this
