@@ -14,7 +14,7 @@ max_width: true
 		{% endfor %}
 	</div>
 	<div class="mb-4">
-		<span id="colorian_date" class="mb-4">
+		<span id="colorian_date" class="mb-4 d-none">
 			{% for d in calendar.gregorian_days %}
 				<span id="date_{{ d[0] }}" class="d-none colorian_date_today" class="mt-2">
 					{% assign week_number = d[1]['week'] | to_integer | minus: 1 %}

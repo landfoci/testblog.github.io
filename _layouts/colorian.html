@@ -4,6 +4,8 @@ max_width: true
 ---
 {% assign calendar = site.data.colorian['0'] %}
 
+<div class="mt-4">{{ content }}</div>
+
 {% for month in calendar.months %}
 	{% if month.number != 0 %}
 		<div class="mb-4">
@@ -30,7 +32,7 @@ max_width: true
 					<div class="row">
 				{% endif %}
 				
-				<div class="col mb-1">
+				<div class="col-3 col-sm mb-1 mr-0 pr-0">
 					{% if gregorian_date == todays_date %}
 						{% assign day_class = 'today' %}
 						{% assign day_cell = '#ffc' %}

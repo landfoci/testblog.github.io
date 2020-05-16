@@ -1,7 +1,7 @@
 # NOTES
 
 ## Start the server:
-`bundle exec jekyll serve`
+`bundle exec jekyll serve --incremental`
 
 ## Reference links:
 - Jekyll cheat sheet https://devhints.io/jekyll
