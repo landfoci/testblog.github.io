@@ -75,6 +75,8 @@ My old [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c0
 6. People mode = yellow and some cyan
 7. Gold mode = iridescent / white
 
+I see this color / chimera system as being a bit more precise and useful specifically when talking about the Flow and People modes of the Hydra framework. Or rather it's a bit more "mutually exclusive" even though they are both equally exhaustive.
+
 ### Links that informed big and small portions of these thoughts:
 
 * [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89)
