@@ -34,7 +34,7 @@ Over 50% of people will choose A. Another 40% will choose B. So if you're 1 in 1
 
 I have a weird game to share that will generate increasingly better answers to fill C's empty vessel of possibility. They have one thing in common: they use the chaos monkey's element of irreducible rascality as fuel to feed productive conversations with yourself, others, and the material world.
 
-This is an update to my [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150) post from 2013, new and improved after 7 years of intermittent play-testing and refining.
+This is an update to my [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150) post from 2013, new and improved after 7 years of intermittent play-testing and working through similar frameworks others have developed.
 
 ### In 500 words...
 
@@ -70,7 +70,7 @@ TBD
 
 ### What it is not
 
-Unlike other mythologies that first draw the ground and place us on top of it, this is just drawing us, and showing how we draw the ground under us. We are drawn to creation myths that explain where we came from, but this is an "us" myth that explains where creation myths come from.
+Unlike other mythologies that first draw the ground and place us delicately on top of it, this is an attempt to draw us first, and to articulate how we can then draw the ground under us. Historically we've been attracted to creation myths that explain where we came from, but that was backwards -- this is an "us" myth that helps explain why we often crave creation myths.
 
 ### Theory-heavy kitchen sink
 
@@ -78,7 +78,7 @@ I'm testing out (via daily writing, and occasional conversations) a "mythic patt
 
 1. ❤️🦞🏡 **RED: Deepening dialogues with our Intuitions.** Seeking the center of our own internal world via the experience of sensing and being.
 	- *Core question:* What is important?
-	- *Wicked problem:* There's no essential meaning.
+	- *Wicked problem:* There's no essential meaning to give things importance.
 	- *Connected mode:* self-acceptance, integrity, authenticity, integration of shadow
 	- *Disconnected mode:* anxiety, lost soul, numb to everything, cynical
 	- *Synonyms for Intuition:* the subconscious, our identities, value systems, belief systems, preferences, story-telling, being mode. 
@@ -104,26 +104,28 @@ It's one of three fuzzy, nebulous, building blocks that can help us realize what
 
 A metaphor will help here I think, maybe. Let's try some color and light theory. As you know, there is a very wide spectrum of electromagetic waves, and we're able to perceive a certain subset of the spectrum with 3 cones in our eyes (okay, sometimes 4, though we'll discard that for the purposes of this metaphor). The 3 cones are sensitive to different wavelengths of light that correspond roughly to red, green, and blue (again, not perfectly, I know) and with these 3 cones we perceive millions of different colors that are the building blocks that give us a visible spectrum of light. This interplay between electromagnetic waves and our eyeball cones allow our brains to see things in the world and make sense of them. There's nothing intrinsic to the universe that gives the specific wavelengths of color we see meaning, and yet we still find the act of vision meaningful. 
 
-I'm proposing here that we have developed 3 fundamental ways for constructing an infinite variety of personal, purposeful, meaning in our lives from the full spectrum of possible experience (most of which we'll never witness directly). There is no intrinsic meaning to experience built in, but we've developed three ways to feel connected and meaningful within it by having conversations that take us deeper into the experience of our intuitions (RED), our experience of external reality (BLUE), and our experience of community and systems (GREEN). While they allow us to create meaning from our experiences, they aren't discovering something that exists separately from our experience of it, like a divine truth, for example. It's closer to the kind of meaning we derive from growth... the act of growing, of both integrating something new and shedding something old, that feels like a cool breeze of a meaningful existence.
+I'm proposing here that we have developed 3 fundamental ways for constructing an infinite variety of personal, purposeful, meaning, and action in our lives from the full spectrum of possible experience (most of which we'll never witness directly). There is no intrinsic meaning to experience built in, but we've developed 3 basic ways to feel connected and purposeful within it: by having conversations that take us deeper into the bi-directional dialogue with of our intuitions (RED), the bi-directional dialogue with external reality however you think of that (BLUE), and the bi-directional dialogue with community and systems (GREEN). These dialogues allow us to create meaning from our experiences, but it's important to remember that they aren't discovering something that exists separately from our experience of it, like a divine truth, for example. It's closer to the kind of meaning we derive from growing up developmentally. The act of growing, physically and mentally, is a process that transforms us as we go through it, both integrating new experiences into our narrative self and shedding old stories and memories that no longer serve us. This process feeds us at our deepest levels of existence.
 
-### What is a core question?
+### What is a Core Question?
 
-It's the question we can't help but ask that pulls us towards the foundational category, and into wicked problems, that spark the dialogues. 
+It's a question we can't help but ask that pulls us towards the foundational category (intuition, the world, community), and into wicked problems at their center, thus sparking a heated dialogue. 
 
-### What are wicked problems?
+### What are Wicked Problems?
 
-It's the reason the core question and resulting dialogues is neither answerable nor ignorable. A [wicked problem](https://medium.com/foolish-journey/hello-kevin-ac27c32146fd) is a problem that has the following qualities:
+They are the reasons the core questions and resulting dialogues are neither answerable nor dismissable. A [wicked problem](https://medium.com/foolish-journey/hello-kevin-ac27c32146fd) is a problem that has the following qualities:
 
 * It's personal: We can’t avoid the problem
 * It's difficult: The solutions require incredible investment up front
 * It's complex: The problem is hard to pin down
 * It's solutions are conflicted: There’s vast disagreement about viable solutions
 
+The Dark Forest is sometimes used interchangeably with Wicked Problems. The Chaos Monkey is that irreducible element of rascality and futility at the heart of the Dark Forest and our Wicked Problems.
+
 ### What do the Connected and Disconnected modes refer to?
 
-The are two ends of a black-white spectrum that represent our own subjective experience (aka the narrating mind) of how well the dialogues are doing. When they're going poorly, we disconnect from them, but then suffer from being cut off from their energy. When they're going well, we integrate and grow into them as a result, and benefit from the energy that that process generates. 
+They are two ends of a black-and-white spectrum that represent our own subjective experience (aka the narrating mind) of how well the dialogues are doing. When they're going poorly, we disconnect from their energy, but then suffer as a result. When they're going well, we integrate their energy and shed the dead parts of ourselves than are holding us back from growth. 
 
-### What are the synonyms and symbols about? 
+### What are the Synonyms and Symbols about? 
 
 This is basically a grab bag of other frameworks, some familiar and others personal to my own mental models, that map to these same three foundational categories. Because there is nothing "essential" holding these categories in place, no synonym or symbol will perfectly point to the category for everyone, especially since the categories, synonyms, and symbols are all also drifting over time. If the ones here don't quite work for you, try to use them to triangulate synonyms and symbols that resonate more with you. This requires a good dose of RED energy, which will make it hard to do if that conversation isn't going well. In that case, forget about labels and just focus on finding a conversational context that might generate RED energy first.
 
@@ -217,4 +219,4 @@ I currently don't think of chaos as having a voice. It is a hidden part of the s
 * [Meaningness](https://meaningness.com/) by David Chapman
 * [Make Your Own Rules](https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/), by Venkatesh Rao
 * [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d), by Duncan A Sabien
-* [Turtleocracy](https://www.notion.so/Turtleocracy-47a6df7692bf4e95a39504a73a50a295)
+* [Human Systems](https://www.notion.so/Human-Systems-62a526124acc40d3aa15bc8e2cd976e6)
