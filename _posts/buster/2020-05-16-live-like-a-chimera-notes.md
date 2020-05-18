@@ -5,6 +5,7 @@ title: Live Like a Chimera (rambling notes)
 tags:
   - pattern-language
 published: true
+comments_url: https://github.com/busterbenson/rickshaw/issues/6
 ---
 > Caveat: These are notes for an eventual draft that is much simpler and more concise 
 
@@ -23,33 +24,43 @@ published: true
 
 ### In 150 words...
 
-TBD
+When the Chaos Monkey inevitably gets into your bananas again, what do you do?
+
+A) Lean on an ideology (or a patchwork of ideologies) that help you recover those bananas.
+B) Convince yourself that the bananas were sour and meaningless anyway.
+C) Something else / who knows.
+
+Over 50% of people will choose A. Another 40% will choose B. So if you're 1 in 10 people who think C is clearly the best answer, come with me, this post is for you. 
+
+I have a weird game to share that will generate increasingly better answers to fill C's empty vessel of possibility. They have one thing in common: they use the chaos monkey's element of irreducible rascality as fuel to feed productive conversations with yourself, others, and the material world.
+
+This is an update to my [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150) post from 2013, new and improved after 7 years of intermittent play-testing and refining.
 
 ### In 500 words...
 
-This is a thought experiment / game for building your own personal mythology out of 3 foundational conversations we have with ourselves, others, and the world. 
+This is an experiment / game for using the endless supply of chaotic energy emanating from our daily lives and the world around us to build your own self-correcting internal narrative (I sometimes call it a personal mythology) out of 3 foundational conversations we have with ourselves, others, and the world. 
 
-The first conversation is between our narrating mind and intuitive minds, when we ask "What is important to us?" When the conversation is going well we feel self-acceptance, we can uphold our integrity, and we aren't afraid or dismissive of our own dark sides. When it's going poorly, we feel anxiety, numb to everything, anxious, and cynical.
+The 1st conversation is between our narrating mind and our less-accessible intuitive minds, when we ask **"What is important to us?"** When the conversation is going well we feel self-acceptance, we can uphold our integrity, and we aren't afraid or dismissive of our own dark sides. When it's going poorly, we feel anxiety, numb to everything, anxious, and cynical.
 
-The second conversation is between our narrating mind and the knowable universe, when we ask "What is real?" When the conversation is going well we feel curious, intellectually honest, and generous in our observations and listening. When it's going poorly, we feel like everything is absurd, nonsensical, bullshit, and fake.
+The 2nd conversation is between our narrating mind and the knowable universe, when we ask **"What is real?"** When the conversation is going well we feel curious, intellectually honest, and generous in our observations and listening. When it's going poorly, we feel like everything is absurd, nonsensical, bullshit, and fake.
 
-The third conversation is between our narrating mind and other people, communities, and complex systems that have agency of their own, when we ask, "What is useful?" When the conversation is going well we feel courageous, playful, and as a willful participant in something larger than us. When it's not going well we feel alientated, invisible, and empty.
+The 3rd conversation is between our narrating mind and other people, communities, and complex systems that have agency of their own, when we ask, **"What is useful?"** When the conversation is going well we feel courageous, playful, and able to willfully participate in something larger than us. When it's not going well we feel alientated, invisible, and empty.
 
-Each conversation generates, or drains, energy from you. We can refer to the first conversation as generating/draining RED energy, the second same with BLUE energy, and the third same with GREEN energy.
+Each of these 3 conversation generates or drains energy from us. For shorthand reasons, I refer to the first conversation as generating/draining red energy, the second same as generating/draining blue energy, and the third as generating/draining green energy.
 
-The game is broken up into X phases. 
+The game is broken up into 3 phases.
 
-The first phase, or observation phase, is about identifying conversational contexts in your own life (places around your house and broader world, windows of time, influencial people and communities, pockets of energy, attention, and ability, and more that we'll get into) that either increase and/or decrease the quality of these conversations you're already having. Figuring out which conversations are going well, and which aren't. Including others in this phase if you want to play multi-player, though it is not required. 
+The first phase, or observation phase, or red phase, is about identifying conversational contexts in your own life (places around your house and broader world, windows of time, influencial people and communities, pockets of energy, attention, and ability, and more that we'll get into) that either increase and/or decrease the quality of these conversations you're already having. Figuring out which conversations are going well, and which aren't. Including others in this phase if you want to play multi-player, though it is not required. 
 
-The second phase, or low-hanging fruit phase, of the game is about identifying where there is wiggle room for helpful conversational contexts to be brought closer and unhelpful conversational contexts to be pushed out a bit. This is all about building confidence that these conversational context A) can be influenced and B) that influencing them has a direct impact on your quality of life. 
+The second phase, or low-hanging fruit phase, or blue phase, of the game is about identifying where there is wiggle room for helpful conversational contexts to be brought closer and unhelpful conversational contexts to be pushed out a bit. This is all about building confidence that these conversational context A) can be influenced and B) that influencing them has a direct impact on your quality of life. 
 
-The third phase, or normalizing phase, of the game is about weaving the game into each of the conversational contexts so that the language can be easily accessed in the moment as conversations open up windows of wiggle room to shift up or down in quality. This essentially collapses the three phases of the game into a single always-running phaseless non-game. It's just normal and part of you. 
+The third phase, or normalizing phase, or green phase, of the game is about weaving the game into each of your conversational contexts so that the moves can be easily accessed in the moment as conversations open up windows of wiggle room to shift up or down in quality. This essentially collapses the three phases of the game into a single always-running phaseless non-game. It's just normal and part of you. 
 
-A chimera is a [Greek mythological creature](https://en.wikipedia.org/wiki/Chimera_(mythology)) that was a hybrid of a lion, goat, and snake. In this game, a chimera is a symbol of who we can become if we're able to keep the three conversations going well. When we do, their three types of energy (red, blue, green) help us deepen our participation in our intuitions, the world, and community in ways that lead to mutual thriving.
+It's called Live Like a Chimera, because a chimera is a [Greek mythological creature](https://en.wikipedia.org/wiki/Chimera_(mythology)) that was a hybrid of a lion, goat, and snake. In this game, a chimera is a symbol of who we can become if we're able to keep the three conversations actively eating up chaotic energy bananas and turning them into red, blue, and green energy. We can then re-invest that energy to deepen the dialogues we have with our intuitions, the world, and community.
 
-----
+You win when you are living like a chaos-eating Chimera, skipping through the Dark Forest of Meaninglessness, playfully indulging the Chaos Monkey's endless attempts to trip you up.
 
-## The game's 3 phases 
+## Another X words  
 
 TBD
 
@@ -68,7 +79,7 @@ I'm testing out (via daily writing, and occasional conversations) a "mythic patt
 1. ❤️🦞🏡 **RED: Deepening dialogues with our Intuitions.** Seeking the center of our own internal world via the experience of sensing and being.
 	- *Core question:* What is important?
 	- *Wicked problem:* There's no essential meaning.
-	- *Connected mode:* acceptance, integrity, authenticity, normalizing
+	- *Connected mode:* self-acceptance, integrity, authenticity, integration of shadow
 	- *Disconnected mode:* anxiety, lost soul, numb to everything, cynical
 	- *Synonyms for Intuition:* the subconscious, our identities, value systems, belief systems, preferences, story-telling, being mode. 
 	- *Symbols:* Red, Cat, Heart, Self, Home, Paper
@@ -110,7 +121,7 @@ It's the reason the core question and resulting dialogues is neither answerable 
 
 ### What do the Connected and Disconnected modes refer to?
 
-The are two ends of a black-white spectrum that represent our own subjective experience of how well the dialogues are doing. When they're going poorly, we disconnect from them, but then suffer from being cut off from their energy. When they're going well, we integrate and grow into them as a result, and benefit from the energy that that process generates. 
+The are two ends of a black-white spectrum that represent our own subjective experience (aka the narrating mind) of how well the dialogues are doing. When they're going poorly, we disconnect from them, but then suffer from being cut off from their energy. When they're going well, we integrate and grow into them as a result, and benefit from the energy that that process generates. 
 
 ### What are the synonyms and symbols about? 
 
