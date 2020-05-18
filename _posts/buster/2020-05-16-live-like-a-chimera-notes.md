@@ -38,7 +38,7 @@ This is an update to my [Live Like a Hydra](https://medium.com/better-humans/liv
 
 ### In 500 words...
 
-This is an experiment / game for using the endless supply of chaotic energy emanating from our daily lives and the world around us to build your own self-correcting internal narrative (I sometimes call it a personal mythology) out of 3 foundational conversations we have with ourselves, others, and the world. 
+This is an experiment / game for using the endless supply of chaotic energy emanating from our daily lives and the world around us to build your own **self-correcting internal narrative** (I sometimes call it a personal mythology) out of 3 foundational conversations we have with ourselves, others, and the world. 
 
 The 1st conversation is between our narrating mind and our less-accessible intuitive minds, when we ask **"What is important?"** When the conversation is going well we feel self-acceptance, we can uphold our integrity, and we aren't afraid or dismissive of our own dark sides. When it's going poorly we feel anxiety, numb to everything, anxious, and cynical.
 
@@ -65,6 +65,8 @@ You win when you are living like a chaos-eating Chimera, skipping through the Da
 TBD
 
 ## Another Y words
+
+TBD
 
 ----
 
@@ -114,7 +116,20 @@ We do this by having conversations that take us deeper into the bi-directional d
 
 ### What is a Conversational Context?
 
-TBD (but if you are familiar with Christopher Alexander's "A Pattern Language" a conversational context is a repeating conversational pattern that is happening in your life.)
+If you are familiar with Christopher Alexander's "A Pattern Language" a conversational context is a repeating conversational pattern that is happening in your life.
+
+Small list of examples from my life: 
+
+- Alternating early morning parent-on-duty to allow the other a chance to sleep in a tiny bit (red)
+- Family breakfast (green)
+- Tracking lunar cycles and checking the moon out when it swings by (blue)
+- Date night (green)
+- Hiding in the bathroom for some emergency alone time (an introvert pro-tip) (red)
+- Peloton-time (red + green)
+- Coding (red + blue + green)
+- Cooking dinner and listening to podcasts with a glass of wine (red + blue + green)
+
+The color coding is not always accurate, but meant to illustrate how these conversation contexts generate and/or drain different kinds of energy. 
 
 ### What is a Core Question?
 
