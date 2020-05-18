@@ -94,19 +94,27 @@ I'm testing out (via daily writing, and occasional conversations) a "mythic patt
 	- *Symbols:* Blu, Raven, Head, World, Public, Scissors
 3. ✋🐉🌳 **GREEN: Deepening dialogues with Community.** Noticing the interdependent dynamics playing between everything, working within the messiness of communication, feedback loops, and the multiple-order effects. It’s about doing things and then seeing what happens.	
 	- *Core question:* What is useful?
-	- *Wicked problem:* There's never enough time and resource constraints.
-	- *Connected mode:* playfulness, humor, courage, participating
-	- *Disconnected mode:* feeling alienated, not belonging, being invisible
+	- *Wicked problem:* Time and resources are always constrained.
+	- *Connected mode:* playfulness, humor, courage, participating in something bigger than self
+	- *Disconnected mode:* feeling alienated, not belonging, being invisible, avoiding, denial, lashing out
 	- *Synonyms for Community:* systems, social contracts, cultural norms, interdependence, strategy, doing mode.
 	- *Symbols:* Green, Turtle, Hands, Community, Frontier, Rock
 
 ### What is a foundational category?
 
-It's one of three fuzzy, nebulous, building blocks that can help us realize what is relevant to us so that we can making sense of things.
+Each of the 3 categories is a fuzzy, nebulous, building block that can help us realize what is relevant to us (important, real, and useful).
 
-A metaphor will help here I think, maybe. Let's try some color and light theory. As you know, there is a very wide spectrum of electromagetic waves, and we're able to perceive a certain subset of the spectrum with 3 cones in our eyes (okay, sometimes 4, though we'll discard that for the purposes of this metaphor). The 3 cones are sensitive to different wavelengths of light that correspond roughly to red, green, and blue (again, not perfectly, I know) and with these 3 cones we perceive millions of different colors that are the building blocks that give us a visible spectrum of light. This interplay between electromagnetic waves and our eyeball cones allow our brains to see things in the world and make sense of them. There's nothing intrinsic to the universe that gives the specific wavelengths of color we see meaning, and yet we still find the act of vision meaningful. 
+A metaphor will help here I think, maybe. Let's try some color and light theory. As you know, there is a very wide spectrum of electromagetic waves, and we're able to perceive a certain subset of the spectrum with 3 cones in our eyes (okay, sometimes 4, though we'll discard that for the purposes of this metaphor). The 3 cones are sensitive to different wavelengths of light that correspond roughly to red, green, and blue (again, not perfectly, I know) and with these 3 cones we perceive millions of different colors that make up our visible spectrum of light. This interplay between electromagnetic waves and our eyeball cones allow our brains to see things in the world and make sense of them. 
 
-I'm proposing here that we have developed 3 fundamental ways for constructing an infinite variety of personal, purposeful, meaning, and action in our lives from the full spectrum of possible experience (most of which we'll never witness directly). There is no intrinsic meaning to experience built in, but we've developed 3 basic ways to feel connected and purposeful within it: by having conversations that take us deeper into the bi-directional dialogue with of our intuitions (RED), the bi-directional dialogue with external reality however you think of that (BLUE), and the bi-directional dialogue with community and systems (GREEN). These dialogues allow us to create meaning from our experiences, but it's important to remember that they aren't discovering something that exists separately from our experience of it, like a divine truth, for example. It's closer to the kind of meaning we derive from growing up developmentally. The act of growing, physically and mentally, is a process that transforms us as we go through it, both integrating new experiences into our narrative self and shedding old stories and memories that no longer serve us. This process feeds us at our deepest levels of existence.
+There's nothing intrinsic to the universe that gives the specific wavelengths of color we see meaning, and yet we still find the act of vision meaningful. 
+
+I'm proposing here that we have developed 3 fundamental ways for constructing an infinite variety of personal, purposeful, meaning, and action in our lives from a tiny subset of the full spectrum of possible experience. There is no intrinsic meaning built in to our experiences that we mine, but rather we've developed ways to realize/generate/evolve connection and purpose within it. 
+
+We do this by having conversations that take us deeper into the bi-directional dialogue with of our intuitions (RED), the bi-directional dialogue with external reality however you think of that (BLUE), and the bi-directional dialogue with community and systems (GREEN). These dialogues allow us to create meaning from our experiences, but it's important to remember that they aren't discovering something that exists separately from our experience of it, like a divine truth, for example. It's closer to the kind of meaning we derive from growing up developmentally. The act of growing, physically and mentally, is a process that transforms us as we go through it, both integrating new experiences into our narrative self and shedding old stories and memories that no longer serve us. This process, when going well, feeds us at our deepest levels of existence.
+
+### What is a Conversational Context?
+
+TBD (but if you are familiar with Christopher Alexander's "A Pattern Language" a conversational context is a repeating conversational pattern that is happening in your life.)
 
 ### What is a Core Question?
 
