@@ -1,13 +1,14 @@
 ---
 layout: post
 author: buster
-title: Live Like a Chimera (public draft)
+title: Live Like a Chimera (rambling notes)
 tags:
   - pattern-language
-  - chimera
 published: true
 ---
-### This is a draft. Unresolved questions include: 
+> Caveat: These are notes for an eventual draft that is much simpler and more concise 
+
+### Unresolved questions: 
 
 - @delightfuljon: What is the 150 word version?
 - @miri: I wonder where chaos plays into this.
@@ -16,40 +17,77 @@ published: true
 - What form should it take in terms of expression?
 - I haven't explained the Chimera part of the title yet at all. 
 
+----
+
+# Live Like a Chimera
+
 ### In 150 words...
 
 TBD
 
-### Theory-heavy intro
+### In 500 words...
+
+This is a thought experiment / game for building your own personal mythology out of 3 foundational conversations we have with ourselves, others, and the world. 
+
+The first conversation is between our narrating mind and intuitive minds, when we ask "What is important to us?" When the conversation is going well we feel self-acceptance, we can uphold our integrity, and we aren't afraid or dismissive of our own dark sides. When it's going poorly, we feel anxiety, numb to everything, anxious, and cynical.
+
+The second conversation is between our narrating mind and the knowable universe, when we ask "What is real?" When the conversation is going well we feel curious, intellectually honest, and generous in our observations and listening. When it's going poorly, we feel like everything is absurd, nonsensical, bullshit, and fake.
+
+The third conversation is between our narrating mind and other people, communities, and complex systems that have agency of their own, when we ask, "What is useful?" When the conversation is going well we feel courageous, playful, and as a willful participant in something larger than us. When it's not going well we feel alientated, invisible, and empty.
+
+Each conversation generates, or drains, energy from you. We can refer to the first conversation as generating/draining RED energy, the second same with BLUE energy, and the third same with GREEN energy.
+
+The game is broken up into X phases. 
+
+The first phase, or observation phase, is about identifying conversational contexts in your own life (places around your house and broader world, windows of time, influencial people and communities, pockets of energy, attention, and ability, and more that we'll get into) that either increase and/or decrease the quality of these conversations you're already having. Figuring out which conversations are going well, and which aren't. Including others in this phase if you want to play multi-player, though it is not required. 
+
+The second phase, or low-hanging fruit phase, of the game is about identifying where there is wiggle room for helpful conversational contexts to be brought closer and unhelpful conversational contexts to be pushed out a bit. This is all about building confidence that these conversational context A) can be influenced and B) that influencing them has a direct impact on your quality of life. 
+
+The third phase, or normalizing phase, of the game is about weaving the game into each of the conversational contexts so that the language can be easily accessed in the moment as conversations open up windows of wiggle room to shift up or down in quality. This essentially collapses the three phases of the game into a single always-running phaseless non-game. It's just normal and part of you. 
+
+----
+
+## The game's 3 phases 
+
+TBD
+
+----
+
+## Raw notes
+
+### What it is not
+
+Unlike other mythologies that first draw the ground and place us on top of it, this is just drawing us, and showing how we draw the ground under us. We are drawn to creation myths that explain where we came from, but this is an "us" myth that explains where creation myths come from.
+
+### Theory-heavy kitchen sink
 
 I'm testing out (via daily writing, and occasional conversations) a "mythic pattern language" that has these 3 foundational categories of practice: 
 
-1. ❤️🦞🏡 **RED: Deepening dialogues with our Intuitions**
-	- About finding the center of our own internal world via the experience of sensing and being.
-	- Core question: What is important?
-	- Dark Forest conundrum: meaninglessness
-	- Connected mode: acceptance, integrity, authenticity, normalizing
-	- Disconnected mode: anxiety, lost soul, numb to everything, cynical
-	- Synonyms for Intuition: the subconscious, our identities, value systems, belief systems, preferences, story-telling, being mode. 
-	- Symbols: Red, Cat, Heart, Self, Home, Paper
-2. 🧠🦋🌎 **BLUE: Deepening dialogues with the Universe**:
-	- About extending our map of the known universe and making more of it feel relevant to us.
-	- Core question: What is real?
-	- Dark Forest conundrum: too much information
-	- Connected mode: curiosity, intellectual honesty, wondering, observing
-	- Disconnected mode: absurdity, all is nonsense / bullshit / fake
-	- Synonyms for Universe: reality, truth, material evidence, verifiable information, science, having mode. 
-	- Symbols: Blu, Raven, Head, World, Public, Scissors
-3. ✋🐉🌳 **GREEN: Deepening dialogues with Community**:
-	- About noticing the interdependent dynamics playing between everything, working within the messiness of communication, feedback loops, and the multiple-order effects. It’s about doing things and then seeing what happens.	
-	- Core question: What is useful?
-	- Dark Forest conundrum: time and resource constraints 
-	- Connected mode: playfulness, humor, courage, participating
-	- Disconnected mode: feeling alienated, not belonging, being invisible
-	- Synonyms for Community: systems, social contracts, cultural norms, interdependence, strategy, doing mode.
-	- Symbols: Green, Turtle, Hands, Community, Frontier, Rock
+1. ❤️🦞🏡 **RED: Deepening dialogues with our Intuitions.** Seeking the center of our own internal world via the experience of sensing and being.
+	- *Core question:* What is important?
+	- *Wicked problem:* There's no essential meaning.
+	- *Connected mode:* acceptance, integrity, authenticity, normalizing
+	- *Disconnected mode:* anxiety, lost soul, numb to everything, cynical
+	- *Synonyms for Intuition:* the subconscious, our identities, value systems, belief systems, preferences, story-telling, being mode. 
+	- *Symbols:* Red, Cat, Heart, Self, Home, Paper
+2. 🧠🦋🌎 **BLUE: Deepening dialogues with the Universe.** Extending our map of the known universe and making more of it feel relevant to us.
+	- *Core question:* What is real?
+	- *Wicked problem:* There's too much information.
+	- *Connected mode:* curiosity, intellectual honesty, wondering, generous observation and listening
+	- *Disconnected mode:* absurdity, all is nonsense / bullshit / fake
+	- *Synonyms for Universe:* reality, truth, material evidence, verifiable information, science, having mode. 
+	- *Symbols:* Blu, Raven, Head, World, Public, Scissors
+3. ✋🐉🌳 **GREEN: Deepening dialogues with Community.** Noticing the interdependent dynamics playing between everything, working within the messiness of communication, feedback loops, and the multiple-order effects. It’s about doing things and then seeing what happens.	
+	- *Core question:* What is useful?
+	- *Wicked problem:* There's never enough time and resource constraints.
+	- *Connected mode:* playfulness, humor, courage, participating
+	- *Disconnected mode:* feeling alienated, not belonging, being invisible
+	- *Synonyms for Community:* systems, social contracts, cultural norms, interdependence, strategy, doing mode.
+	- *Symbols:* Green, Turtle, Hands, Community, Frontier, Rock
 
 ### What is a foundational category?
+
+It's one of three fuzzy, nebulous, building blocks that can help us realize what is relevant to us so that we can making sense of things.
 
 A metaphor will help here I think, maybe. Let's try some color and light theory. As you know, there is a very wide spectrum of electromagetic waves, and we're able to perceive a certain subset of the spectrum with 3 cones in our eyes (okay, sometimes 4, though we'll discard that for the purposes of this metaphor). The 3 cones are sensitive to different wavelengths of light that correspond roughly to red, green, and blue (again, not perfectly, I know) and with these 3 cones we perceive millions of different colors that are the building blocks that give us a visible spectrum of light. This interplay between electromagnetic waves and our eyeball cones allow our brains to see things in the world and make sense of them. There's nothing intrinsic to the universe that gives the specific wavelengths of color we see meaning, and yet we still find the act of vision meaningful. 
 
@@ -57,13 +95,24 @@ I'm proposing here that we have developed 3 fundamental ways for constructing an
 
 ### What is a core question?
 
-In the 
+It's the question we can't help but ask that pulls us towards the foundational category, and into wicked problems, that spark the dialogues. 
 
-### What is a Dark Forest conundrum?
+### What are wicked problems?
+
+It's the reason the core question and resulting dialogues is neither answerable nor ignorable. A [wicked problem](https://medium.com/foolish-journey/hello-kevin-ac27c32146fd) is a problem that has the following qualities:
+
+* It's personal: We can’t avoid the problem
+* It's difficult: The solutions require incredible investment up front
+* It's complex: The problem is hard to pin down
+* It's solutions are conflicted: There’s vast disagreement about viable solutions
 
 ### What do the Connected and Disconnected modes refer to?
 
+The are two ends of a black-white spectrum that represent our own subjective experience of how well the dialogues are doing. When they're going poorly, we disconnect from them, but then suffer from being cut off from their energy. When they're going well, we integrate and grow into them as a result, and benefit from the energy that that process generates. 
+
 ### What are the synonyms and symbols about? 
+
+This is basically a grab bag of other frameworks, some familiar and others personal to my own mental models, that map to these same three foundational categories. Because there is nothing "essential" holding these categories in place, no synonym or symbol will perfectly point to the category for everyone, especially since the categories, synonyms, and symbols are all also drifting over time. If the ones here don't quite work for you, try to use them to triangulate synonyms and symbols that resonate more with you. This requires a good dose of RED energy, which will make it hard to do if that conversation isn't going well. In that case, forget about labels and just focus on finding a conversational context that might generate RED energy first.
 
 ### Potential risks and blind spots of this framework
 
@@ -114,6 +163,22 @@ My old [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c0
 
 I see this color / chimera system as being a bit more precise and useful specifically when talking about the Flow and People modes of the Hydra framework. Or rather it's a bit more "mutually exclusive" even though they are both equally exhaustive.
 
+### Quick test. Which mode are you in right now?
+
+You can quickly figure out which mode you’re in right now by asking yourself these three Y/N questions.
+
+**3 questions:** In this moment, does A or B feel more true:
+
+1. I am A) in touch with my intuitions and authentic self B) out-of-touch and uncentered with my intuitions and authentic self
+2. I feel A) useful and appreciated by my community B) alienated and invisible to my community.
+3. The world outside my community feels: A) grounded and reliable B) disorganized and absurd
+
+**Answer key:** A and B represent answers to the 3 questions above.
+
+> BBB = Gray. AAA = Clear.
+> ABB = Red. BAB = Green. BBA = Blue.
+> AAB = Yellow. BAA = Cyan. ABA = Magenta.
+
 ### What is the Chimera reference to?
 
 TBD
@@ -135,6 +200,8 @@ I currently don't think of chaos as having a voice. It is a hidden part of the s
 
 ### Links that informed big and small portions of these thoughts:
 
+* [Awakening From the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) by John Vervaeke
 * [Meaningness](https://meaningness.com/) by David Chapman
 * [Make Your Own Rules](https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/), by Venkatesh Rao
 * [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d), by Duncan A Sabien
+* [Turtleocracy](https://www.notion.so/Turtleocracy-47a6df7692bf4e95a39504a73a50a295)
