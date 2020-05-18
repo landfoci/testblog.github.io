@@ -45,6 +45,8 @@ The second phase, or low-hanging fruit phase, of the game is about identifying w
 
 The third phase, or normalizing phase, of the game is about weaving the game into each of the conversational contexts so that the language can be easily accessed in the moment as conversations open up windows of wiggle room to shift up or down in quality. This essentially collapses the three phases of the game into a single always-running phaseless non-game. It's just normal and part of you. 
 
+A chimera is a [Greek mythological creature](https://en.wikipedia.org/wiki/Chimera_(mythology)) that was a hybrid of a lion, goat, and snake. In this game, a chimera is a symbol of who we can become if we're able to keep the three conversations going well. When we do, their three types of energy (red, blue, green) help us deepen our participation in our intuitions, the world, and community in ways that lead to mutual thriving.
+
 ----
 
 ## The game's 3 phases 
