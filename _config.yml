@@ -25,12 +25,17 @@ target-blank:
 jekyll-mentions:
   base_url: /rickshaw
 
+webmentions:
+  username: busterbenson.github.io_rickshaw_
+  pages: true
+
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-mentions
+  - jekyll-webmention_io
 
 collections:
   pages:
