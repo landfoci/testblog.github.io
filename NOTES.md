@@ -10,3 +10,4 @@
 - Add them to `_data/person.yml`
 - Create a folder in `_data`, `_pages`, and `_posts` that matches their username
 - Add an `index.html` file to `_pages/[username]` as their profile page
+

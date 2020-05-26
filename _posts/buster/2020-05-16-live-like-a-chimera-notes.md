@@ -1,28 +1,31 @@
 ---
 layout: post
 author: buster
-title: Live Like a Chimera (rambling notes)
+title: Live Like a Chimera
 tags:
   - pattern-language
 published: true
 comments_url: https://github.com/busterbenson/rickshaw/issues/6
 ---
-> Caveat: These are notes for an eventual draft that is much simpler and more concise 
+
+# Live Like a Chimera (rambling notes)
+
+> These are notes-to-myself about an eventual update to my [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150) post from 2013, new and improved after 7 years of intermittent play-testing and working through similar frameworks others have developed.
 
 ### Unresolved questions: 
 
 - @delightfuljon: What is the 150 word version?
 - @miri: I wonder where chaos plays into this.
-- Is this mutually exclusive and collectively exhautive as a framework?
 - Does it pass its own test of being important, real, and useful?
 - What form should it take in terms of expression?
 - I haven't explained the Chimera part of the title yet at all. 
+- Is this a pattern language? 
 
-----
+### What it is not?
 
-# Live Like a Chimera
+Unlike other mythologies that first draw the ground and place us delicately on top of it, this is an attempt to draw us first, and to articulate how we can then draw the ground under us. Historically we've been attracted to creation myths that explain where we came from, but that was backwards -- this is an "us" myth that helps explain why we often crave creation myths.
 
-### In 150 words...
+### What is it in 150 words?
 
 When the Chaos Monkey inevitably gets into your bananas again, what do you do?
 
@@ -32,11 +35,9 @@ C) Something else / who knows.
 
 Over 50% of people will choose A. Another 40% will choose B. So if you're 1 in 10 people who think C is clearly the best answer, come with me, this post is for you. 
 
-I have a weird game to share that will generate increasingly better answers to fill C's empty vessel of possibility. They have one thing in common: they use the chaos monkey's element of irreducible rascality as fuel to feed productive conversations with yourself, others, and the material world.
+I have a weird game to share that will generate increasingly better answers to fill C's empty vessel of possibility. They have one thing in common: they use the Chaos Monkey's element of irreducible rascality as fuel to feed productive conversations with yourself, others, and the material world.
 
-This is an update to my [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150) post from 2013, new and improved after 7 years of intermittent play-testing and working through similar frameworks others have developed.
-
-### In 500 words...
+### What is it in 500 words?
 
 This is an experiment / game for using the endless supply of chaotic energy emanating from our daily lives and the world around us to build your own self-correcting internal narrative (I sometimes call it a personal mythology) out of 3 foundational conversations we have with ourselves, others, and the world. 
 
@@ -68,9 +69,6 @@ TBD
 
 ## Raw notes
 
-### What it is not
-
-Unlike other mythologies that first draw the ground and place us delicately on top of it, this is an attempt to draw us first, and to articulate how we can then draw the ground under us. Historically we've been attracted to creation myths that explain where we came from, but that was backwards -- this is an "us" myth that helps explain why we often crave creation myths.
 
 ### Theory-heavy kitchen sink
 
