@@ -29,39 +29,43 @@ Unlike other mythologies that first draw the ground and place us delicately on t
 
 When the Chaos Monkey inevitably gets into your bananas again, what do you do?
 
-A) Lean on an ideology (or a patchwork of ideologies) that help you recover those bananas.
-B) Convince yourself that the bananas were sour and meaningless anyway.
-C) Something else / who knows.
+- A) Lean on an ideology (or a patchwork of ideologies) that help you figure out how to recover those bananas.
+- B) Convince yourself that the bananas were sour and meaningless anyway.
+- C) Something else / who knows.
 
-Over 50% of people will choose A. Another 40% will choose B. So if you're 1 in 10 people who think C is clearly the best answer, come with me, this post is for you. 
+Over 50% of people will choose A. Another 40% will choose B. So if you're 10% people who think C is clearly the best answer, come with me, this post is for you. 
 
 I have a weird game to share that will generate increasingly better answers to fill C's empty vessel of possibility. They have one thing in common: they use the Chaos Monkey's element of irreducible rascality as fuel to feed productive conversations with yourself, others, and the material world.
 
 ### What is it in 500 words?
 
-This is an experiment / game for using the endless supply of chaotic energy emanating from our daily lives and the world around us to build your own self-correcting internal narrative (I sometimes call it a personal mythology) out of 3 foundational conversations we have with ourselves, others, and the world. 
+This is an experiment / game for using the endless supply of chaotic energy emanating from our daily lives and the world around us to build your own **self-correcting internal narrative** (I sometimes call it a personal mythology) out of 3 foundational conversations we have with ourselves, others, and the world. 
 
-The 1st conversation is between our narrating mind and our less-accessible intuitive minds, when we ask **"What is important to us?"** When the conversation is going well we feel self-acceptance, we can uphold our integrity, and we aren't afraid or dismissive of our own dark sides. When it's going poorly, we feel anxiety, numb to everything, anxious, and cynical.
+The 1st conversation is between our narrating mind and our less-accessible intuitive minds, when we ask **"What is important?"** When the conversation is going well we feel self-acceptance, we can uphold our integrity, and we aren't afraid or dismissive of our own dark sides. When it's going poorly we feel anxiety, numb to everything, anxious, and cynical.
 
-The 2nd conversation is between our narrating mind and the knowable universe, when we ask **"What is real?"** When the conversation is going well we feel curious, intellectually honest, and generous in our observations and listening. When it's going poorly, we feel like everything is absurd, nonsensical, bullshit, and fake.
+The 2nd conversation is between our narrating mind and the knowable universe, when we ask **"What is real?"** When the conversation is going well we feel curious, intellectually honest, and generous in our observations and listening. When it's going poorly we feel like everything is absurd, nonsensical, bullshit, and fake.
 
 The 3rd conversation is between our narrating mind and other people, communities, and complex systems that have agency of their own, when we ask, **"What is useful?"** When the conversation is going well we feel courageous, playful, and able to willfully participate in something larger than us. When it's not going well we feel alientated, invisible, and empty.
 
-Each of these 3 conversation generates or drains energy from us. For shorthand reasons, I refer to the first conversation as generating/draining red energy, the second same as generating/draining blue energy, and the third as generating/draining green energy.
+Each of these 3 conversations generate or drain energy from us. For shorthand reasons, I refer to the first conversation as generating/draining red energy, the second as generating/draining blue energy, and the third as generating/draining green energy.
 
 The game is broken up into 3 phases.
 
-The first phase, or observation phase, or red phase, is about identifying conversational contexts in your own life (places around your house and broader world, windows of time, influencial people and communities, pockets of energy, attention, and ability, and more that we'll get into) that either increase and/or decrease the quality of these conversations you're already having. Figuring out which conversations are going well, and which aren't. Including others in this phase if you want to play multi-player, though it is not required. 
+The first phase, or observation phase, or red phase, is about identifying conversational contexts in your own life (places around your house and broader world, windows of time, influencial people and communities, pockets of energy, attention, and ability, and more that we'll get into) that increase and/or decrease the quality of these conversations you're already having. Figuring out which conversations are going well, and which aren't.  
 
-The second phase, or low-hanging fruit phase, or blue phase, of the game is about identifying where there is wiggle room for helpful conversational contexts to be brought closer and unhelpful conversational contexts to be pushed out a bit. This is all about building confidence that these conversational context A) can be influenced and B) that influencing them has a direct impact on your quality of life. 
+The second phase, or low-hanging fruit phase, or blue phase, of the game is about identifying where there is wiggle room for conversational contexts to be course-corrected towards "going well". This phase is all about building confidence that these conversational contexts A) *can* be influenced and B) that influencing them has a noticable impact on your *quality of life*. 
 
-The third phase, or normalizing phase, or green phase, of the game is about weaving the game into each of your conversational contexts so that the moves can be easily accessed in the moment as conversations open up windows of wiggle room to shift up or down in quality. This essentially collapses the three phases of the game into a single always-running phaseless non-game. It's just normal and part of you. 
+The third phase, or normalizing phase, or green phase, of the game is about weaving the game into each of your conversational contexts so that the moves can be easily accessed in the moment as conversations open up windows of wiggle room to shift up or down in quality. The goal here is to collapse the three phases of the game into a single always-running phaseless non-game. It becomes just normal and part of you. 
 
 It's called Live Like a Chimera, because a chimera is a [Greek mythological creature](https://en.wikipedia.org/wiki/Chimera_(mythology)) that was a hybrid of a lion, goat, and snake. In this game, a chimera is a symbol of who we can become if we're able to keep the three conversations actively eating up chaotic energy bananas and turning them into red, blue, and green energy. We can then re-invest that energy to deepen the dialogues we have with our intuitions, the world, and community.
 
 You win when you are living like a chaos-eating Chimera, skipping through the Dark Forest of Meaninglessness, playfully indulging the Chaos Monkey's endless attempts to trip you up.
 
-## Another X words  
+## Another X words 
+
+TBD
+
+## Another Y words
 
 TBD
 
@@ -90,19 +94,40 @@ I'm testing out (via daily writing, and occasional conversations) a "mythic patt
 	- *Symbols:* Blu, Raven, Head, World, Public, Scissors
 3. ✋🐉🌳 **GREEN: Deepening dialogues with Community.** Noticing the interdependent dynamics playing between everything, working within the messiness of communication, feedback loops, and the multiple-order effects. It’s about doing things and then seeing what happens.	
 	- *Core question:* What is useful?
-	- *Wicked problem:* There's never enough time and resource constraints.
-	- *Connected mode:* playfulness, humor, courage, participating
-	- *Disconnected mode:* feeling alienated, not belonging, being invisible
+	- *Wicked problem:* Time and resources are always constrained.
+	- *Connected mode:* playfulness, humor, courage, participating in something bigger than self
+	- *Disconnected mode:* feeling alienated, not belonging, being invisible, avoiding, denial, lashing out
 	- *Synonyms for Community:* systems, social contracts, cultural norms, interdependence, strategy, doing mode.
 	- *Symbols:* Green, Turtle, Hands, Community, Frontier, Rock
 
 ### What is a foundational category?
 
-It's one of three fuzzy, nebulous, building blocks that can help us realize what is relevant to us so that we can making sense of things.
+Each of the 3 categories is a fuzzy, nebulous, building block that can help us realize what is relevant to us (important, real, and useful).
 
-A metaphor will help here I think, maybe. Let's try some color and light theory. As you know, there is a very wide spectrum of electromagetic waves, and we're able to perceive a certain subset of the spectrum with 3 cones in our eyes (okay, sometimes 4, though we'll discard that for the purposes of this metaphor). The 3 cones are sensitive to different wavelengths of light that correspond roughly to red, green, and blue (again, not perfectly, I know) and with these 3 cones we perceive millions of different colors that are the building blocks that give us a visible spectrum of light. This interplay between electromagnetic waves and our eyeball cones allow our brains to see things in the world and make sense of them. There's nothing intrinsic to the universe that gives the specific wavelengths of color we see meaning, and yet we still find the act of vision meaningful. 
+A metaphor will help here I think, maybe. Let's try some color and light theory. As you know, there is a very wide spectrum of electromagetic waves, and we're able to perceive a certain subset of the spectrum with 3 cones in our eyes (okay, sometimes 4, though we'll discard that for the purposes of this metaphor). The 3 cones are sensitive to different wavelengths of light that correspond roughly to red, green, and blue (again, not perfectly, I know) and with these 3 cones we perceive millions of different colors that make up our visible spectrum of light. This interplay between electromagnetic waves and our eyeball cones allow our brains to see things in the world and make sense of them. 
 
-I'm proposing here that we have developed 3 fundamental ways for constructing an infinite variety of personal, purposeful, meaning, and action in our lives from the full spectrum of possible experience (most of which we'll never witness directly). There is no intrinsic meaning to experience built in, but we've developed 3 basic ways to feel connected and purposeful within it: by having conversations that take us deeper into the bi-directional dialogue with of our intuitions (RED), the bi-directional dialogue with external reality however you think of that (BLUE), and the bi-directional dialogue with community and systems (GREEN). These dialogues allow us to create meaning from our experiences, but it's important to remember that they aren't discovering something that exists separately from our experience of it, like a divine truth, for example. It's closer to the kind of meaning we derive from growing up developmentally. The act of growing, physically and mentally, is a process that transforms us as we go through it, both integrating new experiences into our narrative self and shedding old stories and memories that no longer serve us. This process feeds us at our deepest levels of existence.
+There's nothing intrinsic to the universe that gives the specific wavelengths of color we see meaning, and yet we still find the act of vision meaningful. 
+
+I'm proposing here that we have developed 3 fundamental ways for constructing an infinite variety of personal, purposeful, meaning, and action in our lives from a tiny subset of the full spectrum of possible experience. There is no intrinsic meaning built in to our experiences that we mine, but rather we've developed ways to realize/generate/evolve connection and purpose within it. 
+
+We do this by having conversations that take us deeper into the bi-directional dialogue with of our intuitions (RED), the bi-directional dialogue with external reality however you think of that (BLUE), and the bi-directional dialogue with community and systems (GREEN). These dialogues allow us to create meaning from our experiences, but it's important to remember that they aren't discovering something that exists separately from our experience of it, like a divine truth, for example. It's closer to the kind of meaning we derive from growing up developmentally. The act of growing, physically and mentally, is a process that transforms us as we go through it, both integrating new experiences into our narrative self and shedding old stories and memories that no longer serve us. This process, when going well, feeds us at our deepest levels of existence.
+
+### What is a Conversational Context?
+
+If you are familiar with Christopher Alexander's "A Pattern Language" a conversational context is a repeating conversational pattern that is happening in your life.
+
+Small list of examples from my life: 
+
+- Alternating early morning parent-on-duty to allow the other a chance to sleep in a tiny bit (red)
+- Family breakfast (green)
+- Tracking lunar cycles and checking the moon out when it swings by (blue)
+- Date night (green)
+- Hiding in the bathroom for some emergency alone time (an introvert pro-tip) (red)
+- Peloton-time (red + green)
+- Coding (red + blue + green)
+- Cooking dinner and listening to podcasts with a glass of wine (red + blue + green)
+
+The color coding is not always accurate, but meant to illustrate how these conversation contexts generate and/or drain different kinds of energy. 
 
 ### What is a Core Question?
 
