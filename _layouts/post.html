@@ -11,14 +11,21 @@ max_width: true
   <div class="meta">
     <time datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%B %-d, %Y" }}
-    </time> 
+    </time>
     {% if page.tags != empty %}
       &middot;
       {% for tag in page.tags %}
-        <a href="/rickshaw/tag/{{tag}}">{{tag}}</a>
+        <a href="{{ site.baseurl }}/tag/{{tag}}">{{tag}}</a>
         {% unless forloop.last %}, {% endunless %}
       {% endfor %}
-    {% endif %} 
+    {% endif %}
+    {% if page.categories != empty %}
+      &middot;
+      {% for category in page.categories %}
+        <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>
+        {% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    {% endif %}
   </div>
 
   <div class="mt-4">
@@ -26,13 +33,17 @@ max_width: true
       {% assign in_reply_to = site.posts | where: "url", page.replying_to_post | first %}
       {% if in_reply_to %}
         <div class="alert alert-secondary">
-          In reply to <strong><a href="/rickshaw{{ in_reply_to.url }}">{{ in_reply_to.title }}</a></strong>
+          In reply to <strong><a href="{{ site.baseurl }}{{ in_reply_to.url }}">{{ in_reply_to.title }}</a></strong>
           {% assign in_reply_author = site.data.people[in_reply_to.author] %}
           {% if in_reply_author %}
-            by <a href="/rickshaw/{{ in_reply_author.path }}">{{ in_reply_author.name }}</a>
+            by <a href="{{ site.baseurl }}/{{ in_reply_author.path }}">{{ in_reply_author.name }}</a>
           {% endif %}
         </div>
       {% endif %}
+    {% endif %}
+
+    {% if page.image %}
+      <img src="{{ site.baseurl }}/assets/{{ page.author }}/{{ page.image }}" alt="{{ page.title }}">
     {% endif %}
 
     {{ content }}
@@ -56,20 +67,18 @@ max_width: true
       {% for reply in replies %}
         {% assign reply_author = site.data.people[reply.author] %}
           <h2>
-            <a href="/rickshaw{{reply.url}}">{{ reply.title }}</a> 
-            • A reply 
+            <a href="{{ site.baseurl }}{{reply.url}}">{{ reply.title }}</a>
+            • A reply
             {% if reply_author %}
-            from <a href="/rickshaw/{{ reply_author.path }}">{{ reply_author.name }}</a>
+            from <a href="{{ site.baseurl }}/{{ reply_author.path }}">{{ reply_author.name }}</a>
             {% endif %}
           </h2>
           <p>
             {{ reply.excerpt }}
-            <a href="/rickshaw{{reply.url}}">Read more&hellip;</a> 
+            <a href="{{ site.baseurl }}{{reply.url}}">Read more&hellip;</a>
           </p>
         </div>
       {% endfor %}
     </div>
   {% endif %}
 </section>
-
-

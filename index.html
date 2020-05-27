@@ -9,7 +9,7 @@ max_width: true
 <section class="posts">
 	<div class="mb-4"><strong>🐲 In This Rickshaw:</strong>
 		{% for person in site.data.people.authors %}
-			<a href="/rickshaw/{{ person.username }}">
+			<a href="{{ site.baseurl }}/{{ person.username }}">
 			{{ person.name }}</a>{% if forloop.last %}. {% else %}, {% endif %}
 		{% endfor %}
 	</div>
@@ -38,12 +38,12 @@ max_width: true
 
 	<div class="row inline-block">
 		{% if one_words != empty %}
-			<div class="col-12 col-sm-4 col-md-3"> 
+			<div class="col-12 col-sm-4 col-md-3">
 				<strong class="mt-1">One Word</strong>
 				{% for page in one_words %}
 					{% assign author = site.data.people[page.author] %}
 			  	<div>
-			  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
+			  		<a href="{{ site.baseurl }}{{ page.url }}">{{ author.name }}</a>
 			  	</div>
 			  {% endfor %}
 			</div>
@@ -55,10 +55,10 @@ max_width: true
 				{% for page in codexes %}
 					{% assign author = site.data.people[page.author] %}
 			  	<div>
-			  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
+			  		<a href="{{ site.baseurl }}{{ page.url }}">{{ author.name }}</a>
 			  	</div>
 			  {% endfor %}
-			</div>			
+			</div>
 		{% endif %}
 
 		{% if lives_in_weeks != empty %}
@@ -67,7 +67,7 @@ max_width: true
 				{% for page in lives_in_weeks %}
 					{% assign author = site.data.people[page.author] %}
 			  	<div>
-			  		<a href="/rickshaw{{ page.url }}">{{ author.name }}</a>
+			  		<a href="{{ site.baseurl }}{{ page.url }}">{{ author.name }}</a>
 			  	</div>
 			  {% endfor %}
 			</div>
@@ -78,12 +78,32 @@ max_width: true
 		<div class="col">
 			<strong>Updates</strong>
 			{% for post in site.posts %}
-		  	<div>
-		  		<a href="/rickshaw{{ post.url }}">{{ post.title }}</a>
+				{% if post.category != 'rickshaw-draws' %}
+			  	<div>
+			  		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+			  		<span class="meta">
+				  		{% if post.author %}
+								{% assign author = site.data.people[post.author] %}
+				  			• <a href="{{ site.baseurl }}/{{ author.username }}">{{ author.name }}</a>
+				  			• {{ post.date | date: "%b %-d" }}
+				  		{% endif %}
+				  	</span>
+			  	</div>
+				{% endif %}
+		  {% endfor %}
+		</div>
+	</div>
+
+	<div class="row mt-4">
+		<div class="col">
+			<strong>Rickshaw Draws</strong>
+			{% for post in site.categories.rickshaw-draws %}
+		  	<div class="mb-3">
+					<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/assets/{{ post.author }}/{{ post.image }}" alt="{{ post.title }}"></a>
 		  		<span class="meta">
 			  		{% if post.author %}
 							{% assign author = site.data.people[post.author] %}
-			  			• <a href="/rickshaw/{{ author.username }}">{{ author.name }}</a>
+			  			<a href="{{ site.baseurl }}/{{ author.username }}">{{ author.name }}</a>
 			  			• {{ post.date | date: "%b %-d" }}
 			  		{% endif %}
 			  	</span>
