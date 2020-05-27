@@ -11,3 +11,8 @@
 - Create a folder in `_data`, `_pages`, and `_posts` that matches their username
 - Add an `index.html` file to `_pages/[username]` as their profile page
 
+## To add a post to Rickshaw Draws
+- Create a post as normal
+- Add `category: rickshaw-draws` to the post metadata
+- Add the image to `/assets/[username]/[filename].jpg`
+- Add `image: [filename].jpg` to the post metadata
