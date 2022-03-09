@@ -243,7 +243,12 @@
   - name: "📓 Write my first Codex Vitae, Life In Weeks"
     link: https://busterbenson.github.io/rickshaw/christin/codex
     category: "self"
-       
+
+'2020-05-01':
+  - name: "💊 Worked at Natera for a bit"
+    category: "work"
+    tags: ["pharma"]
+    
 '2021-02-01':
   - name: "🧘🍵 Launched Honeyritual Tea"
     link: https://christin.notion.site/Write-of-Passage-Cohort-7-Notes-05d07f90e5284b9db9cb40b153c82e91
