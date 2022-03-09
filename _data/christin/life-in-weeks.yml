@@ -248,6 +248,11 @@
   - name: "💊 Worked at Natera for a bit"
     category: "work"
     tags: ["pharma"]
+
+'2020-11-07':
+  - name: "🇺🇸 Biden wins the election."
+    category: "world"
+    tags: ["politics"]
     
 '2021-02-01':
   - name: "🧘🍵 Launched Honeyritual Tea"
