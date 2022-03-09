@@ -166,6 +166,11 @@
     category: "work"
     tags: ["agency"]
 
+'2014-12-01':
+  - name: "👭 Got married."
+    category: "self"
+    tags: ["marriage"]
+
 '2016-08-01':
   - name: "💊 Start working at Fishawack Communications."
     category: "work"
@@ -245,6 +250,6 @@
     tags: [death]
 
 '2086-06-01':
-  - name: "🏋️ Goal: Be the top weightlifter for my age group in my state."
+  - name: "🏋️ Goal: Be the top powerlifter for my age group in my state."
     category: "goal"
     link: 
