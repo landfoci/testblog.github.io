@@ -27,6 +27,10 @@
 '1995-05-01':
   - name: "I was physically bullied in school and cried every day."
     category: "self"
+
+'1996-05-01':
+  - name: "We moved to Indonesia."
+    category: "self"
     
 '1998-05-01':
   - name: "My family escaped from Indonesia because of the 1998 riots and anti-Chinese violence."
@@ -36,6 +40,10 @@
   - name: "🖥️ Y2K (doesn't) happen."
     category: "world"
     tags: ["technology"]
+
+'2000-05-01':
+  - name: "🏫 I enrolled in Garden International School. Happy times."
+    category: "school"
 
 '2000-11-01':
   - name: "🇺🇸 George W. Bush wins the election."
