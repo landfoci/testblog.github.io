@@ -14,8 +14,10 @@
 
 '1994-01-01':
   - name: "I struggled in Chinese school and couldn't keep up with rote memorization and the homework."
+  
 '1994-02-01':
   - name: "My parents decided I'm better off going to an international school."
+  
 '1994-03-01':
   - name: "I struggled to learn English instead."
 
@@ -24,7 +26,7 @@
   
 '1998-05-01':
   - name: "My family escaped from Indonesia because of the 1998 riots and anti-Chinese violence."
-  link: https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia
+    link: https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia
     
 '2000-01-01':
   - name: "🖥️ Y2K (doesn't) happen."
