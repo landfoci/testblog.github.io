@@ -14,16 +14,20 @@
 
 '1994-01-01':
   - name: "I struggled in Chinese school and couldn't keep up with rote memorization and the homework."
-  
+    category: "self"
+    
 '1994-02-01':
   - name: "My parents decided I'm better off going to an international school."
-  
+    category: "self"
+    
 '1994-03-01':
   - name: "I struggled to learn English instead."
-
+    category: "self"
+    
 '1995-05-01':
   - name: "I was physically bullied in school and cried every day."
-  
+    category: "self"
+    
 '1998-05-01':
   - name: "My family escaped from Indonesia because of the 1998 riots and anti-Chinese violence."
     link: https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia
