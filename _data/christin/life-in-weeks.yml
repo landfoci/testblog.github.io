@@ -16,7 +16,8 @@
   - name: "I struggled in Chinese school and couldn't keep up with rote memorization and the homework. My parents decided I'm better off going to an international school. I struggled to learn English instead."
 
 '1998-05-01':
-  - name: "My family escaped from Indonesia because of the <a href=https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia>1998 riots and anti-Chinese violence</a>. Our dog didn't make it."
+  - name: "My family escaped from Indonesia because of the 1998 riots and anti-Chinese violence."
+  link: https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia
     
 '2000-01-01':
   - name: "🖥️ Y2K (doesn't) happen."
