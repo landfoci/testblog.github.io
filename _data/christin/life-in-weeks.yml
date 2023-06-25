@@ -11,6 +11,9 @@
   - name: "🇺🇸 Bill Clinton wins the election."
     category: "world"
     tags: ["politics"]
+
+'1994-01-01':
+  - name: "I struggled in Chinese school and couldn't keep up with the homework. My parents decided I'm better off going to an international school where there's less homework. I learned English."
     
 '2000-01-01':
   - name: "🖥️ Y2K (doesn't) happen."
