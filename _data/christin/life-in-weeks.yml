@@ -273,7 +273,7 @@
     category: "self"
 
 '2020-05-01':
-  - name: "💊 Worked at Natera for a bit"
+  - name: "💊 I work at Natera for a bit"
     category: "work"
     tags: ["pharma"]
 
@@ -288,14 +288,20 @@
     category: "self"
     
 '2021-09-08':
-  - name: "✍️ Write of Passage Cohort 7 - life changing!"
+  - name: "✍️ Write of Passage Cohort 7"
     link: https://christin.notion.site/Write-of-Passage-Cohort-7-Notes-05d07f90e5284b9db9cb40b153c82e91
-    category: "world"
-       
-'2022-02-01':
-  - name: "💗⚡ Launched Compassion Accelerator"
-    link: https://christin.notion.site/Write-of-Passage-Cohort-7-Notes-05d07f90e5284b9db9cb40b153c82e91
-    category: "self"
+    
+'2021-10-26':
+  - name: "✍️ The Writing Studio with Michael Dean"
+    link: https://christinchong.com/notes/the-writing-studio-with-michael-dean
+    
+'2022-05-01':
+  - name: "Become a ✍️ Write of Passage Cohort 9 editor"
+    link: https://christin.substack.com/p/christins-behind-the-scenes-sunday-e51
+    
+'2022-09-01':
+  - name: "Become a ✍️ Write of Passage Cohort 9 mentor"
+    link: https://christinchong.com/articles/overcome-writers-block-with-loving-kindness
     
 '2022-02-24':
   - name: "🇺🇦 Ukraine War"
