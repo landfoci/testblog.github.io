@@ -13,8 +13,15 @@
     tags: ["politics"]
 
 '1994-01-01':
-  - name: "I struggled in Chinese school and couldn't keep up with rote memorization and the homework. My parents decided I'm better off going to an international school. I struggled to learn English instead."
+  - name: "I struggled in Chinese school and couldn't keep up with rote memorization and the homework."
+'1994-02-01':
+  - name: "My parents decided I'm better off going to an international school."
+'1994-03-01':
+  - name: "I struggled to learn English instead."
 
+'1995-05-01':
+  - name: "I was physically bullied in school and cried every day."
+  
 '1998-05-01':
   - name: "My family escaped from Indonesia because of the 1998 riots and anti-Chinese violence."
   link: https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia
