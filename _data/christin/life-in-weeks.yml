@@ -13,7 +13,7 @@
     tags: ["politics"]
     
 '2000-01-01':
-  - name: "🖥️ Y2K happens."
+  - name: "🖥️ Y2K (doesn't) happen."
     category: "world"
     tags: ["technology"]
 
