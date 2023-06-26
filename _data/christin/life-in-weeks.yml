@@ -21,19 +21,19 @@
     category: "self"
     
 '1994-03-01':
-  - name: "I struggled to learn English instead."
+  - name: "I struggle to learn English instead."
     category: "self"
     
 '1995-05-01':
-  - name: "I was physically bullied in school and cried every day."
+  - name: "I am physically bullied in school and cry every day."
     category: "self"
 
 '1996-05-01':
-  - name: "We moved to Indonesia."
+  - name: "We move to Indonesia."
     category: "self"
     
 '1998-05-01':
-  - name: "My family escaped from Indonesia because of the 1998 riots and anti-Chinese violence."
+  - name: "My family escape from Indonesia because of the 1998 riots and anti-Chinese violence."
     link: https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia
     
 '2000-01-01':
@@ -294,7 +294,11 @@
 '2021-10-11':
   - name: "Launch Substack newsletter"
     link: https://christin.substack.com/
-    
+
+'2022-06-05':
+  - name: "☸️ Attend weeklong online retreat with Diana Clark and Brian Lesage"
+    link: https://christinchong.com/articles/virtual-meditation-retreats-maintaining-mindfulness-in-daily-life
+  
 '2021-10-26':
   - name: "✍️ The Writing Studio with Michael Dean"
     link: https://christinchong.com/notes/the-writing-studio-with-michael-dean
@@ -311,11 +315,13 @@
   - name: "🏋️ Place 2nd in NorCal powerlifting competition"
     link: https://twitter.com/Christintweets/status/1520887812341460993
 
-        
-'2022-06-01':
+'2022-06-05':
+  - name: "☸️ Attend weeklong retreat with Gil Fronsdal and Diana Clark"
+
+'2022-07-01':
   - name: "🐸 Launch Debug Your Meditation book"
     link: https://christinchong.com/book
-
+    
 '2022-09-01':
   - name: "Become a ✍️ Write of Passage Cohort 9 mentor"
     link: https://christinchong.com/articles/overcome-writers-block-with-loving-kindness
