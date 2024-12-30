@@ -23,7 +23,7 @@ target-blank:
   add_css_classes: external-link
 
 jekyll-mentions:
-  base_url: /rickshaw
+  base_url: 
 
 plugins:
   - jekyll-paginate
@@ -45,7 +45,7 @@ collections:
 
 defaults:
   - scope:
-      path: "/rickshaw"
+      path: ""
     values:
       layout: "default"
   - scope:
