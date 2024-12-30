@@ -1,9 +1,9 @@
 ---
-site: "Rickshaw"
-url: "https://busterbenson.github.io/rickshaw"
-baseurl: '/rickshaw'
-title: 'Rickshaw'
-description: 'A group website thing.'
+site: "Leqa'sblog"
+url: "https://testblog.github.io"
+baseurl: ''
+title: 'Leqa'
+description: 'Don gian chi la ghi va chep.'
 permalink: 'pretty'
 highlighter: 'rouge'
 exclude:
